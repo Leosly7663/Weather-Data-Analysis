@@ -1,0 +1,2 @@
+## This is a major Python project
+The goal of this project is to extend my python functionality into data storing and quering and using live data (1 hour rescrape) in matplotlib to show off math skills 
