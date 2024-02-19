@@ -147,3 +147,24 @@ A mix of sun and cloud      conditionsPassed1       dayCondition
 """
 
 
+observedAt = mainForecast[1] + " " + mainForecast[2] + " " + mainForecast[3]
+condition = mainForecast[5]
+pressure = mainForecast[7] + mainForecast[8]
+tendency = mainForecast[10]
+temperature = mainForecast[12] + mainForecast[13]
+dewPoint = mainForecast[15] + mainForecast[16]
+humdity = mainForecast[18]
+windDir = mainForecast[20] 
+windSpeed = + mainForecast[21] 
+
+""""
+print(observedAt)       Moose Creek Wells 12:00 PM EST      observedLocation
+print(condition)        Not observed                        condition
+print(pressure)         102.5kPa                            pressure    
+print(tendency)         Rising                              tendency
+print(temperature)      -11.0°C                             temperature
+print(dewPoint)         -18.8°C                             dewPoint
+print(humdity)          53%                                 humidity
+print(windDir)          W                                   windDirection
+print(windSpeed)        14                                  windSpeed
+"""
