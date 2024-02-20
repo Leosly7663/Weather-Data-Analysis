@@ -1,13 +1,12 @@
 # pip install urllib
 import urllib
-import urllib.request
 import urllib.error
 from urllib.request import Request, urlopen
 import urllib.request
 import re
 import requests
 import datetime
-from os.path  import basename
+import mysql.connector
 
 
 # pip install beautifulsoup4
@@ -88,7 +87,7 @@ def scrapeWeather(links, mainForecast, futureForecast):
         
 
     #['Sat', '3', 'Feb', '1', '°', 'C', 'Mainly sunny', 'Night', '-13', '°', 'C', 'A few clouds']  
-
+  
 cityLinks = []
 cityNames = []
 scrapeCity(cityNames, cityLinks)
@@ -136,8 +135,9 @@ timeQueried = timeQueried.strftime("%H:%M")
 
 """
 stored every hour every day * 7
-
-Sat 24 Feb                  tonightText             Date
+Sub Schema 
+1                           daysFromMain                           ** second key
+Sat 24 Feb                  tonightText             Date           *
 A mix of sun and cloud      conditionsPassed1       dayCondition
 60% Chance of flurries      conditionsPassed2       nightCondition
 -12°C                       tempPassedNext          nightTemp
@@ -155,10 +155,12 @@ temperature = mainForecast[12] + mainForecast[13]
 dewPoint = mainForecast[15] + mainForecast[16]
 humdity = mainForecast[18]
 windDir = mainForecast[20] 
-windSpeed = + mainForecast[21] 
+windSpeed = mainForecast[21] 
 
 """"
-print(observedAt)       Moose Creek Wells 12:00 PM EST      observedLocation
+Main Schema
+2/19/2024               dateQueried                         dateQueried       *   
+print(observedAt)       Moose Creek Wells 12:00 PM EST      observedLocation  
 print(condition)        Not observed                        condition
 print(pressure)         102.5kPa                            pressure    
 print(tendency)         Rising                              tendency
@@ -168,3 +170,25 @@ print(humdity)          53%                                 humidity
 print(windDir)          W                                   windDirection
 print(windSpeed)        14                                  windSpeed
 """
+
+# lets think about how we want to querry this data
+# probably by day 
+
+# DB is configured for traffic only from my IP so not too worried ab my password being exposed but I still hide it best I can
+mydb = mysql.connector.connect(
+  host="weatherdata.cxskcu0wgqfm.us-east-1.rds.amazonaws.com",
+  user="admin",
+  # TODO hide this password before commit dont want that in public history
+  password="",
+  database="Main"
+)
+
+mycursor = mydb.cursor()
+
+sql = "INSERT INTO current (name, address) VALUES (%s, %s)"
+val = ("John", "Highway 21")
+mycursor.execute(sql, val)
+
+mydb.commit()
+
+print(mycursor.rowcount, "record inserted.")
