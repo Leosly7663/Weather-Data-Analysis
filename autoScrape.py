@@ -7,6 +7,7 @@ import re
 import requests
 import datetime
 import json
+import os 
 
 dateQueried = datetime.date.today()
 timeQueried = datetime.datetime.now()
@@ -104,156 +105,159 @@ if onlineValidate():
     futureForecast = [[],[],[],[],[],[],[]]
 
     #for cityLink in cityLinks:
-    cityLink = cityLinks[0]
-    scrapeWeather(cityLink,mainForecast,futureForecast)
+    for x in range(len(cityLinks)):
+        cityLink = cityLinks[x]
+        scrapeWeather(cityLink,mainForecast,futureForecast)
 
 
-"""
-['Observed at:', 'Moose Creek Wells', '11:00 AM', 'EST', 'Condition:', 'Not observed', 'Pressure:', '102.5', 'kPa', 'Tendency:', 'Rising', 'Temperature:', '-11.7°', 'C', 'Dew point:', '-18.8°', 'C', 'Humidity:', '56%', 'Wind:', 'W', '15', 'km/h', 'Wind Chill', ':', '-19', '-12°', 'C']
-[['Mon', '19', 'Feb', '-8', '°', 'C', 'Sunny', 'Tonight', '-20', '°', 'C', 'Partly cloudy'],
-['Tue', '20', 'Feb', '-4', '°', 'C', 'A mix of sun and cloud', 'Night', '-11', '°', 'C', 'Clear'],
-['Wed', '21', 'Feb', '3', '°', 'C', 'Sunny', 'Night', '-1', '°', 'C', '70%', 'Chance of flurries or rain showers'],
-['Thu', '22', 'Feb', '5', '°', 'C', '60%', 'Chance of flurries or rain showers', 'Night', '0', '°', 'C', '40%', 'Chance of rain showers or flurries'],
-['Fri', '23', 'Feb', '5', '°', 'C', '40%', 'Chance of flurries or rain showers', 'Night', '-17', '°', 'C', '40%', 'Chance of flurries'],
-['Sat', '24', 'Feb', '-8', '°', 'C', 'A mix of sun and cloud', 'Night', '-12', '°', 'C', '60%', 'Chance of flurries'],
-['Sun', '25', 'Feb', '-1', '°', 'C', '60%', 'Chance of flurries']]
-"""
-
-
-
-
-# strip one row of future conditions
-for i in range(0,6):
-    j = 0
-    tonightText = futureForecast[i][0] + "_" + futureForecast[i][1] + "_" + futureForecast[i][2]
-    if re.search(r"%$",futureForecast[i][6]):
-        j = 1
-        conditionsPassed1 = futureForecast[i][6] + " " + futureForecast[i][7]
-        tempPassedNext = futureForecast[i][9]
-    else:
-        conditionsPassed1 = futureForecast[i][6]
-        tempPassedNext = futureForecast[i][8]
-    dayLabel = futureForecast[i][3]
-    if re.search(r"%$",futureForecast[i][11+j]):
-        conditionsPassed2 = futureForecast[i][11+j] + " " + futureForecast[i][12+j]
-    else:
-        conditionsPassed2 = futureForecast[i][11+j]
-
-    Future = {
-        "DaysFromMain":i+1,
-        "Date":tonightText,
-        "dayCondition":conditionsPassed1,
-        "nightCondition":conditionsPassed2,
-        "nightTemp":int(tempPassedNext),
-        "dayTemp":int(dayLabel),
-        "dateQueried":str(dateQueried),
-        "timeQueried":str(timeQueried),
-    }
-
-    json_object_future = json.dumps(Future, indent=4)
- 
-    # Writing to sample.json
-    with open("Assets/Data/Future_" + tonightText + "_Queried_at_" + str(dateQueried)+".json", "w") as outfile:
-        print("Stored future data to " + str(outfile),file=logs)
-        outfile.write(json_object_future)
-
-"""
-stored every hour every day * 7
-Sub Schema 
-1                           daysFromMain                           ** second key
-Sat 24 Feb                  tonightText             Date           *
-A mix of sun and cloud      conditionsPassed1       dayCondition
-60% Chance of flurries      conditionsPassed2       nightCondition
--12°C                       tempPassedNext          nightTemp
--8°C                        dayLabel                dayTemp
-2/19/2024                   dateQueried             dateQueried
-11:34                       timeQueried             timeQueried
-"""
-
-
-observedAt = mainForecast[1] + " " + mainForecast[2] + " " + mainForecast[3]
-condition = mainForecast[5]
-pressure = mainForecast[7]
-tendency = mainForecast[10]
-temperature = mainForecast[12]
-dewPoint = mainForecast[15]
-humdity = mainForecast[18]
-windDir = mainForecast[20] 
-windSpeed = mainForecast[21] 
-
-""""
-Main Schema
-2/19/2024               dateQueried                         dateQueried       *   
-print(observedAt)       Moose Creek Wells 12:00 PM EST      observedLocation  
-print(condition)        Not observed                        condition
-print(pressure)         102.5kPa                            pressure    
-print(tendency)         Rising                              tendency
-print(temperature)      -11.0°C                             temperature
-print(dewPoint)         -18.8°C                             dewPoint
-print(humdity)          53%                                 humidity
-print(windDir)          W                                   windDirection
-print(windSpeed)        14                                  windSpeed
-"""
-
-# lets think about how we want to querry this data
-# probably by day 
-
-# DB is configured for traffic only from my IP so not too worried ab my password being exposed but I still hide it best I can
-"""
-Deprecated MySQL :(
-mydb = mysql.connector.connect(
-  host="weatherdata.cxskcu0wgqfm.us-east-1.rds.amazonaws.com",
-  user="admin",
-  # TODO hide this password before commit dont want that in public history
-  password="",
-  database="Main"
-)
-
-mycursor = mydb.cursor()
-
-sql = "INSERT INTO current (name, address) VALUES (%s, %s)"
-val = ("John", "Highway 21")
-mycursor.execute(sql, val)
-
-mydb.commit()
-
-print(mycursor.rowcount, "record inserted.")
-"""
-
-"""
-Main Schema
-2/19/2024               dateQueried                         dateQueried       *   
-print(observedAt)       Moose Creek Wells 12:00 PM EST      observedLocation  
-print(condition)        Not observed                        condition
-print(pressure)         102.5kPa                            pressure    
-print(tendency)         Rising                              tendency
-print(temperature)      -11.0°C                             temperature
-print(dewPoint)         -18.8°C                             dewPoint
-print(humdity)          53%                                 humidity
-print(windDir)          W                                   windDirection
-print(windSpeed)        14                                  windSpeed
-"""
+        """
+        ['Observed at:', 'Moose Creek Wells', '11:00 AM', 'EST', 'Condition:', 'Not observed', 'Pressure:', '102.5', 'kPa', 'Tendency:', 'Rising', 'Temperature:', '-11.7°', 'C', 'Dew point:', '-18.8°', 'C', 'Humidity:', '56%', 'Wind:', 'W', '15', 'km/h', 'Wind Chill', ':', '-19', '-12°', 'C']
+        [['Mon', '19', 'Feb', '-8', '°', 'C', 'Sunny', 'Tonight', '-20', '°', 'C', 'Partly cloudy'],
+        ['Tue', '20', 'Feb', '-4', '°', 'C', 'A mix of sun and cloud', 'Night', '-11', '°', 'C', 'Clear'],
+        ['Wed', '21', 'Feb', '3', '°', 'C', 'Sunny', 'Night', '-1', '°', 'C', '70%', 'Chance of flurries or rain showers'],
+        ['Thu', '22', 'Feb', '5', '°', 'C', '60%', 'Chance of flurries or rain showers', 'Night', '0', '°', 'C', '40%', 'Chance of rain showers or flurries'],
+        ['Fri', '23', 'Feb', '5', '°', 'C', '40%', 'Chance of flurries or rain showers', 'Night', '-17', '°', 'C', '40%', 'Chance of flurries'],
+        ['Sat', '24', 'Feb', '-8', '°', 'C', 'A mix of sun and cloud', 'Night', '-12', '°', 'C', '60%', 'Chance of flurries'],
+        ['Sun', '25', 'Feb', '-1', '°', 'C', '60%', 'Chance of flurries']]
+        """
 
 
 
-Main = {
-    "dateQueried": str(dateQueried),
-    "timeQueried": str(timeQueried),
-    "observedLocation": observedAt,
-    "condition": condition,
-    "pressure": float(pressure),
-    "tendency": tendency,
-    "temperature": float(temperature[:-1]),
-    "dewPoint": float(dewPoint[:-1]),
-    "humidity": float(humdity[:-1]),
-    "windDirection": windDir,
-    "windSpeed": int(windSpeed)
-}
 
-json_object_main = json.dumps(Main, indent=4)
+        # strip one row of future conditions
+        for i in range(0,6):
+            j = 0
+            tonightText = futureForecast[i][0] + "_" + futureForecast[i][1] + "_" + futureForecast[i][2]
+            if re.search(r"%$",futureForecast[i][6]):
+                j = 1
+                conditionsPassed1 = futureForecast[i][6] + " " + futureForecast[i][7]
+                tempPassedNext = futureForecast[i][9]
+            else:
+                conditionsPassed1 = futureForecast[i][6]
+                tempPassedNext = futureForecast[i][8]
+            dayLabel = futureForecast[i][3]
+            if re.search(r"%$",futureForecast[i][11+j]):
+                conditionsPassed2 = futureForecast[i][11+j] + " " + futureForecast[i][12+j]
+            else:
+                conditionsPassed2 = futureForecast[i][11+j]
+
+            Future = {
+                "DaysFromMain":i,
+                "Date":tonightText,
+                "dayCondition":conditionsPassed1,
+                "nightCondition":conditionsPassed2,
+                "nightTemp":int(tempPassedNext),
+                "dayTemp":int(dayLabel),
+                "dateQueried":str(dateQueried),
+                "timeQueried":str(timeQueried),
+            }
+
+            json_object_future = json.dumps(Future, indent=4)
+        
+            # Writing to sample.json
+            with open("Assets/Data/"+cityNames[x]+"/Future_" + tonightText + "_Queried_at_" + str(dateQueried)+".json", "w") as outfile:
+                print("Stored future data to " + str(outfile),file=logs)
+                outfile.write(json_object_future)
+
+        """
+        stored every hour every day * 7
+        Sub Schema 
+        1                           daysFromMain                           ** second key
+        Sat 24 Feb                  tonightText             Date           *
+        A mix of sun and cloud      conditionsPassed1       dayCondition
+        60% Chance of flurries      conditionsPassed2       nightCondition
+        -12°C                       tempPassedNext          nightTemp
+        -8°C                        dayLabel                dayTemp
+        2/19/2024                   dateQueried             dateQueried
+        11:34                       timeQueried             timeQueried
+        """
 
 
-# Writing to sample.json
-with open("Assets/Data/Main_" + str(dateQueried) + "_Queried_at_" + str(timeQueried)+".json", "w") as outfile:
-    print("Stored main data to " + str(outfile),file=logs)
-    outfile.write(json_object_main)
+        observedAt = mainForecast[1] + " " + mainForecast[2] + " " + mainForecast[3]
+        condition = mainForecast[5]
+        pressure = mainForecast[7]
+        tendency = mainForecast[10]
+        temperature = mainForecast[12]
+        dewPoint = mainForecast[15]
+        humdity = mainForecast[18]
+        windDir = mainForecast[20] 
+        windSpeed = mainForecast[21] 
+
+        """"
+        Main Schema
+        2/19/2024               dateQueried                         dateQueried       *   
+        print(observedAt)       Moose Creek Wells 12:00 PM EST      observedLocation  
+        print(condition)        Not observed                        condition
+        print(pressure)         102.5kPa                            pressure    
+        print(tendency)         Rising                              tendency
+        print(temperature)      -11.0°C                             temperature
+        print(dewPoint)         -18.8°C                             dewPoint
+        print(humdity)          53%                                 humidity
+        print(windDir)          W                                   windDirection
+        print(windSpeed)        14                                  windSpeed
+        """
+
+        # lets think about how we want to querry this data
+        # probably by day 
+
+        # DB is configured for traffic only from my IP so not too worried ab my password being exposed but I still hide it best I can
+        """
+        Deprecated MySQL :(
+        mydb = mysql.connector.connect(
+        host="weatherdata.cxskcu0wgqfm.us-east-1.rds.amazonaws.com",
+        user="admin",
+        # TODO hide this password before commit dont want that in public history
+        password="",
+        database="Main"
+        )
+
+        mycursor = mydb.cursor()
+
+        sql = "INSERT INTO current (name, address) VALUES (%s, %s)"
+        val = ("John", "Highway 21")
+        mycursor.execute(sql, val)
+
+        mydb.commit()
+
+        print(mycursor.rowcount, "record inserted.")
+        """
+
+        """
+        Main Schema
+        2/19/2024               dateQueried                         dateQueried       *   
+        print(observedAt)       Moose Creek Wells 12:00 PM EST      observedLocation  
+        print(condition)        Not observed                        condition
+        print(pressure)         102.5kPa                            pressure    
+        print(tendency)         Rising                              tendency
+        print(temperature)      -11.0°C                             temperature
+        print(dewPoint)         -18.8°C                             dewPoint
+        print(humdity)          53%                                 humidity
+        print(windDir)          W                                   windDirection
+        print(windSpeed)        14                                  windSpeed
+        """
+
+
+
+        Main = {
+            "dateQueried": str(dateQueried),
+            "timeQueried": str(timeQueried),
+            "observedLocation": observedAt,
+            "condition": condition,
+            "pressure": float(pressure),
+            "tendency": tendency,
+            "temperature": float(temperature[:-1]),
+            "dewPoint": float(dewPoint[:-1]),
+            "humidity": float(humdity[:-1]),
+            "windDirection": windDir,
+            "windSpeed": int(windSpeed)
+        }
+
+        json_object_main = json.dumps(Main, indent=4)
+
+
+        # Writing to sample.json
+        with open("Assets/Data/"+cityNames[x]+"/Main_" + str(dateQueried) + "_Queried_at_" + str(timeQueried)+".json", "w") as outfile:
+            print("Stored main data to " + str(outfile),file=logs)
+            outfile.write(json_object_main)
+
+print("Operation Success" + str(outfile),file=logs)

@@ -1,0 +1,9 @@
+Internet connection successful
+Connected to weather source
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Future_Wed_21_Feb_Queried_at_2024-02-21.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Future_Thu_22_Feb_Queried_at_2024-02-21.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Future_Fri_23_Feb_Queried_at_2024-02-21.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Future_Sat_24_Feb_Queried_at_2024-02-21.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Future_Sun_25_Feb_Queried_at_2024-02-21.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Future_Mon_26_Feb_Queried_at_2024-02-21.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Main_2024-02-21_Queried_at_12h55m.json' mode='w' encoding='cp1252'>
