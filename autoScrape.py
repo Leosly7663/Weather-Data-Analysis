@@ -139,9 +139,6 @@ for i in range(0,6):
     else:
         conditionsPassed2 = futureForecast[i][11+j]
 
-    timeQueried = datetime.datetime.now()
-    timeQueried = timeQueried.strftime("%H:%M")
-
     Future = {
         "DaysFromMain":i+1,
         "Date":tonightText,
