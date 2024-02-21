@@ -119,45 +119,61 @@ if onlineValidate():
         ['Fri', '23', 'Feb', '5', '°', 'C', '40%', 'Chance of flurries or rain showers', 'Night', '-17', '°', 'C', '40%', 'Chance of flurries'],
         ['Sat', '24', 'Feb', '-8', '°', 'C', 'A mix of sun and cloud', 'Night', '-12', '°', 'C', '60%', 'Chance of flurries'],
         ['Sun', '25', 'Feb', '-1', '°', 'C', '60%', 'Chance of flurries']]
+
+        [['Tonight', '0', '°', 'C', 'A few flurries'], 
+        ['Thu', '22', 'Feb', '8', '°', 'C', '40%', 'Chance of rain showers or flurries', 'Night', '4', '°', 'C', '60%', 'Periods of drizzle'], 
+        ['Fri', '23', 'Feb', '5', '°', 'C', '40%', 'Chance of flurries or rain showers', 'Night', '-17', '°', 'C', '40%', 'Chance of flurries'], 
+        ['Sat', '24', 'Feb', '-8', '°', 'C', 'Sunny', 'Night', '-12', '°', 'C', 'Clear'], ['Sun', '25', 'Feb', '1', '°', 'C', '40%', 'Chance of flurries', 'Night', '-3', '°', 'C', '40%', 'Chance of flurries'], 
+        ['Mon', '26', 'Feb', '3', '°', 'C', '30%', 'Chance of flurries', 'Night', '-3', '°', 'C', 'Cloudy periods'], 
+        ['Tue', '27', 'Feb', '5', '°', 'C', '60%', 'Chance of flurries']] 
         """
 
-
-
-
         # strip one row of future conditions
-        for i in range(0,6):
-            j = 0
-            tonightText = futureForecast[i][0] + "_" + futureForecast[i][1] + "_" + futureForecast[i][2]
-            if re.search(r"%$",futureForecast[i][6]):
-                j = 1
-                conditionsPassed1 = futureForecast[i][6] + " " + futureForecast[i][7]
-                tempPassedNext = futureForecast[i][9]
-            else:
-                conditionsPassed1 = futureForecast[i][6]
-                tempPassedNext = futureForecast[i][8]
-            dayLabel = futureForecast[i][3]
-            if re.search(r"%$",futureForecast[i][11+j]):
-                conditionsPassed2 = futureForecast[i][11+j] + " " + futureForecast[i][12+j]
-            else:
-                conditionsPassed2 = futureForecast[i][11+j]
+        tonightText = futureForecast[0][0]
+        if tonightText == "Tonight":
+            # skip futures scrape
+            continue
+        else:
+            for i in range(0,6):
+                j = 0
+                tonightText = futureForecast[i][0] + "_" + futureForecast[i][1] + "_" + futureForecast[i][2]
+                try:
+                    if re.search(r"%$",futureForecast[i][6]):
+                        j = 1
+                        conditionsPassed1 = futureForecast[i][6] + " " + futureForecast[i][7]
+                        tempPassedNext = futureForecast[i][9]
+                    else:
+                        conditionsPassed1 = futureForecast[i][6]
+                        tempPassedNext = futureForecast[i][8]
+                    dayLabel = futureForecast[i][3]
+                    if re.search(r"%$",futureForecast[i][11+j]):
+                        conditionsPassed2 = futureForecast[i][11+j] + " " + futureForecast[i][12+j]
+                    else:
+                        conditionsPassed2 = futureForecast[i][11+j] 
+                    
+                    Future = {
+                        "DaysFromMain":i,
+                        "Date":tonightText,
+                        "dayCondition":conditionsPassed1,
+                        "nightCondition":conditionsPassed2,
+                        "nightTemp":int(tempPassedNext),
+                        "dayTemp":int(dayLabel),
+                        "dateQueried":str(dateQueried),
+                        "timeQueried":str(timeQueried),
+                    }
 
-            Future = {
-                "DaysFromMain":i,
-                "Date":tonightText,
-                "dayCondition":conditionsPassed1,
-                "nightCondition":conditionsPassed2,
-                "nightTemp":int(tempPassedNext),
-                "dayTemp":int(dayLabel),
-                "dateQueried":str(dateQueried),
-                "timeQueried":str(timeQueried),
-            }
+                    json_object_future = json.dumps(Future, indent=4)
+                
+                    # Writing to sample.json
+                    with open("Assets/Data/"+cityNames[x]+"/Future_" + tonightText + "_Queried_at_" + str(dateQueried)+".json", "w") as outfile:
+                        print("Stored future data to " + str(outfile),file=logs)
+                        outfile.write(json_object_future)
 
-            json_object_future = json.dumps(Future, indent=4)
-        
-            # Writing to sample.json
-            with open("Assets/Data/"+cityNames[x]+"/Future_" + tonightText + "_Queried_at_" + str(dateQueried)+".json", "w") as outfile:
-                print("Stored future data to " + str(outfile),file=logs)
-                outfile.write(json_object_future)
+                except IndexError:
+                    # Stops scraping of futures when there is less info to be scraped so we dont overwrite with the tonight data that SUCKS
+                    continue
+
+           
 
         """
         stored every hour every day * 7

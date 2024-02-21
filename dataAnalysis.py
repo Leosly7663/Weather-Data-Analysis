@@ -74,5 +74,23 @@ for weather in futures:
 # sort this by the date being predicted
 sortedFutures = sorted(futures, key=lambda x: x['PredictionDate'])
 
-# to be able to move into predition comparison we will have to wait for the DB to cook a little so we have enough data to work with but lets do some stuff with main for now
+# to be able to move into prediction comparison we will have to wait for the DB to cook a little so we have enough data to work with but lets do some stuff with main for now
+
+for weather in main:
+    dateString = weather["dateQueried"]
+    
+    date = datetime.strptime(dateString, '%Y-%m-%d').date()
+
+    timeString = weather["timeQueried"]
+    
+    time = datetime.strptime(timeString, '%Hh%Mm').time()
+
+
+    # we add this date locally to save DB space and JSON does not support date types
+    weather["PredictionDateTime"] = datetime.combine(date, time) + timedelta(days=1)
+
+
+sortedMain = sorted(main, key=lambda x: x['PredictionDateTime'])
+# now we are organized as most recent prediction
+sortedMain.reverse()
 
