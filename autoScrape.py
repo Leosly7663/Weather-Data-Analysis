@@ -110,23 +110,36 @@ if onlineValidate():
         scrapeWeather(cityLink,mainForecast,futureForecast)
 
 
-        """
-        ['Observed at:', 'Moose Creek Wells', '11:00 AM', 'EST', 'Condition:', 'Not observed', 'Pressure:', '102.5', 'kPa', 'Tendency:', 'Rising', 'Temperature:', '-11.7°', 'C', 'Dew point:', '-18.8°', 'C', 'Humidity:', '56%', 'Wind:', 'W', '15', 'km/h', 'Wind Chill', ':', '-19', '-12°', 'C']
-        [['Mon', '19', 'Feb', '-8', '°', 'C', 'Sunny', 'Tonight', '-20', '°', 'C', 'Partly cloudy'],
-        ['Tue', '20', 'Feb', '-4', '°', 'C', 'A mix of sun and cloud', 'Night', '-11', '°', 'C', 'Clear'],
-        ['Wed', '21', 'Feb', '3', '°', 'C', 'Sunny', 'Night', '-1', '°', 'C', '70%', 'Chance of flurries or rain showers'],
-        ['Thu', '22', 'Feb', '5', '°', 'C', '60%', 'Chance of flurries or rain showers', 'Night', '0', '°', 'C', '40%', 'Chance of rain showers or flurries'],
-        ['Fri', '23', 'Feb', '5', '°', 'C', '40%', 'Chance of flurries or rain showers', 'Night', '-17', '°', 'C', '40%', 'Chance of flurries'],
-        ['Sat', '24', 'Feb', '-8', '°', 'C', 'A mix of sun and cloud', 'Night', '-12', '°', 'C', '60%', 'Chance of flurries'],
-        ['Sun', '25', 'Feb', '-1', '°', 'C', '60%', 'Chance of flurries']]
+        observedAt = mainForecast[1] + " " + mainForecast[2] + " " + mainForecast[3]
+        condition = mainForecast[5]
+        pressure = mainForecast[7]
+        tendency = mainForecast[10]
+        temperature = mainForecast[12]
+        dewPoint = mainForecast[15]
+        humdity = mainForecast[18]
+        windDir = mainForecast[20] 
+        windSpeed = mainForecast[21] 
 
-        [['Tonight', '0', '°', 'C', 'A few flurries'], 
-        ['Thu', '22', 'Feb', '8', '°', 'C', '40%', 'Chance of rain showers or flurries', 'Night', '4', '°', 'C', '60%', 'Periods of drizzle'], 
-        ['Fri', '23', 'Feb', '5', '°', 'C', '40%', 'Chance of flurries or rain showers', 'Night', '-17', '°', 'C', '40%', 'Chance of flurries'], 
-        ['Sat', '24', 'Feb', '-8', '°', 'C', 'Sunny', 'Night', '-12', '°', 'C', 'Clear'], ['Sun', '25', 'Feb', '1', '°', 'C', '40%', 'Chance of flurries', 'Night', '-3', '°', 'C', '40%', 'Chance of flurries'], 
-        ['Mon', '26', 'Feb', '3', '°', 'C', '30%', 'Chance of flurries', 'Night', '-3', '°', 'C', 'Cloudy periods'], 
-        ['Tue', '27', 'Feb', '5', '°', 'C', '60%', 'Chance of flurries']] 
-        """
+        Main = {
+            "dateQueried": str(dateQueried),
+            "timeQueried": str(timeQueried),
+            "observedLocation": observedAt,
+            "condition": condition,
+            "pressure": float(pressure),
+            "tendency": tendency,
+            "temperature": float(temperature[:-1]),
+            "dewPoint": float(dewPoint[:-1]),
+            "humidity": float(humdity[:-1]),
+            "windDirection": windDir,
+            "windSpeed": int(windSpeed)
+        }
+
+        json_object_main = json.dumps(Main, indent=4)
+
+        # Writing to sample.json
+        with open("Assets/Data/"+cityNames[x]+"/Main_" + str(dateQueried) + "_Queried_at_" + str(timeQueried)+".json", "w") as outfile:
+            print("Stored main data to " + str(outfile),file=logs)
+            outfile.write(json_object_main)
 
         # strip one row of future conditions
         tonightText = futureForecast[0][0]
@@ -189,15 +202,8 @@ if onlineValidate():
         """
 
 
-        observedAt = mainForecast[1] + " " + mainForecast[2] + " " + mainForecast[3]
-        condition = mainForecast[5]
-        pressure = mainForecast[7]
-        tendency = mainForecast[10]
-        temperature = mainForecast[12]
-        dewPoint = mainForecast[15]
-        humdity = mainForecast[18]
-        windDir = mainForecast[20] 
-        windSpeed = mainForecast[21] 
+        
+
 
         """"
         Main Schema
@@ -254,26 +260,5 @@ if onlineValidate():
 
 
 
-        Main = {
-            "dateQueried": str(dateQueried),
-            "timeQueried": str(timeQueried),
-            "observedLocation": observedAt,
-            "condition": condition,
-            "pressure": float(pressure),
-            "tendency": tendency,
-            "temperature": float(temperature[:-1]),
-            "dewPoint": float(dewPoint[:-1]),
-            "humidity": float(humdity[:-1]),
-            "windDirection": windDir,
-            "windSpeed": int(windSpeed)
-        }
-
-        json_object_main = json.dumps(Main, indent=4)
-
-
-        # Writing to sample.json
-        with open("Assets/Data/"+cityNames[x]+"/Main_" + str(dateQueried) + "_Queried_at_" + str(timeQueried)+".json", "w") as outfile:
-            print("Stored main data to " + str(outfile),file=logs)
-            outfile.write(json_object_main)
-
-print("Operation Success" + str(outfile),file=logs)
+        
+print("Operation Success",file=logs)

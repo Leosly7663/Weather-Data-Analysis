@@ -1,3 +1,2 @@
 Internet connection successful
 Connected to weather source
-Operation Success
