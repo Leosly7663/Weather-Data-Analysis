@@ -1,5 +1,6 @@
 import json
 import matplotlib
+from datetime import datetime, timedelta
 
 # ok so now I need to interpret this data in a meaningful way
 
@@ -37,8 +38,8 @@ import re
 
 current_dir = os.path.dirname(__file__)
 
-futures = [{}]
-main = [{}]
+futures = []
+main = []
 
 # Get the list of files in the directory
 files = os.listdir(current_dir+ "/Assets/Data/" + str(city))
@@ -51,7 +52,27 @@ for file_name in files:
     json_data = json.load(dataStream)
 
     if re.search(r'Future', file_name):
-        print("future")
-        
+        futures.append(json_data)
+
     elif re.search(r'Main', file_name):
-        print("Main")
+        main.append(json_data)
+
+for weather in futures:
+    dateString = weather["dateQueried"]
+    
+    date = datetime.strptime(dateString, '%Y-%m-%d').date()
+
+    delta = timedelta(days= weather["DaysFromMain"])
+
+    predictionDate = date + delta
+
+
+
+    # we add this date locally to save DB space and JSON does not support date types
+    weather["PredictionDate"] = predictionDate
+
+# sort this by the date being predicted
+sortedFutures = sorted(futures, key=lambda x: x['PredictionDate'])
+
+# to be able to move into predition comparison we will have to wait for the DB to cook a little so we have enough data to work with but lets do some stuff with main for now
+
