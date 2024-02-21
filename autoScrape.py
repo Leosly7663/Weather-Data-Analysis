@@ -6,8 +6,13 @@ import urllib.request
 import re
 import requests
 import datetime
-import mysql.connector
+import json
 
+dateQueried = datetime.date.today()
+timeQueried = datetime.datetime.now()
+timeQueried = timeQueried.strftime("%Hh%Mm")
+
+logs = open("Logs/" + str(dateQueried) + "_logged_at_" + str(timeQueried)+".txt", "w")
 
 # pip install beautifulsoup4
 from bs4 import BeautifulSoup, SoupStrainer
@@ -16,18 +21,21 @@ def onlineValidate():
     try:
         internetCheck = urllib.request.urlopen('https://www.youtube.com/')
     except urllib.error.URLError:
-        print("Internet connection failed please check network connection settings")
+        print("Internet connection failed please check network connection settings",file=logs)
         return False
     else:
         if str(internetCheck.getcode()) == "200":
+            print("Internet connection successful",file=logs)
             return True
+        print("Url request failed - reason unknown",file=logs)
+        return False
         
 
 def scrapeCity(cityNames, cityLinks):
     # sends a request to the website then returns the HTML infor to be sorted for usable info
     weatherReq = Request('https://weather.gc.ca/forecast/canada/index_e.html?id=ON', headers={'User-Agent': 'Mozilla/5.0'})
     weatherDoc = urlopen(weatherReq).read()
-
+    print("Connected to weather source",file=logs)
 
     soup = BeautifulSoup(weatherDoc, 'html.parser')
         # by giving it a class to look for you can get the specific information you need much easier
@@ -88,17 +96,16 @@ def scrapeWeather(links, mainForecast, futureForecast):
 
     #['Sat', '3', 'Feb', '1', '°', 'C', 'Mainly sunny', 'Night', '-13', '°', 'C', 'A few clouds']  
   
-cityLinks = []
-cityNames = []
-scrapeCity(cityNames, cityLinks)
-mainForecast = []
-futureForecast = [[],[],[],[],[],[],[]]
+if onlineValidate():
+    cityLinks = []
+    cityNames = []
+    scrapeCity(cityNames, cityLinks)
+    mainForecast = []
+    futureForecast = [[],[],[],[],[],[],[]]
 
-#for cityLink in cityLinks:
-cityLink = cityLinks[0]
-scrapeWeather(cityLink,mainForecast,futureForecast)
-print(mainForecast)
-print(futureForecast)
+    #for cityLink in cityLinks:
+    cityLink = cityLinks[0]
+    scrapeWeather(cityLink,mainForecast,futureForecast)
 
 
 """
@@ -112,26 +119,46 @@ print(futureForecast)
 ['Sun', '25', 'Feb', '-1', '°', 'C', '60%', 'Chance of flurries']]
 """
 
+
+
+
 # strip one row of future conditions
 for i in range(0,6):
     j = 0
-    tonightText = futureForecast[i][0] + " " + futureForecast[i][1] + " " + futureForecast[i][2]
+    tonightText = futureForecast[i][0] + "_" + futureForecast[i][1] + "_" + futureForecast[i][2]
     if re.search(r"%$",futureForecast[i][6]):
         j = 1
         conditionsPassed1 = futureForecast[i][6] + " " + futureForecast[i][7]
-        tempPassedNext = futureForecast[i][9] + futureForecast[i][10] +  futureForecast[i][11]
+        tempPassedNext = futureForecast[i][9]
     else:
         conditionsPassed1 = futureForecast[i][6]
-        tempPassedNext = futureForecast[i][8] + futureForecast[i][9]+ futureForecast[i][10]
-    dayLabel = futureForecast[i][3] + futureForecast[i][4] + futureForecast[i][5]
+        tempPassedNext = futureForecast[i][8]
+    dayLabel = futureForecast[i][3]
     if re.search(r"%$",futureForecast[i][11+j]):
         conditionsPassed2 = futureForecast[i][11+j] + " " + futureForecast[i][12+j]
     else:
         conditionsPassed2 = futureForecast[i][11+j]
 
-dateQueried = datetime.date.today()
-timeQueried = datetime.datetime.now()
-timeQueried = timeQueried.strftime("%H:%M")
+    timeQueried = datetime.datetime.now()
+    timeQueried = timeQueried.strftime("%H:%M")
+
+    Future = {
+        "DaysFromMain":i+1,
+        "Date":tonightText,
+        "dayCondition":conditionsPassed1,
+        "nightCondition":conditionsPassed2,
+        "nightTemp":int(tempPassedNext),
+        "dayTemp":int(dayLabel),
+        "dateQueried":str(dateQueried),
+        "timeQueried":str(timeQueried),
+    }
+
+    json_object_future = json.dumps(Future, indent=4)
+ 
+    # Writing to sample.json
+    with open("Assets/Data/Future_" + tonightText + "_Queried_at_" + str(dateQueried)+".json", "w") as outfile:
+        print("Stored future data to " + str(outfile),file=logs)
+        outfile.write(json_object_future)
 
 """
 stored every hour every day * 7
@@ -149,10 +176,10 @@ A mix of sun and cloud      conditionsPassed1       dayCondition
 
 observedAt = mainForecast[1] + " " + mainForecast[2] + " " + mainForecast[3]
 condition = mainForecast[5]
-pressure = mainForecast[7] + mainForecast[8]
+pressure = mainForecast[7]
 tendency = mainForecast[10]
-temperature = mainForecast[12] + mainForecast[13]
-dewPoint = mainForecast[15] + mainForecast[16]
+temperature = mainForecast[12]
+dewPoint = mainForecast[15]
 humdity = mainForecast[18]
 windDir = mainForecast[20] 
 windSpeed = mainForecast[21] 
@@ -175,6 +202,8 @@ print(windSpeed)        14                                  windSpeed
 # probably by day 
 
 # DB is configured for traffic only from my IP so not too worried ab my password being exposed but I still hide it best I can
+"""
+Deprecated MySQL :(
 mydb = mysql.connector.connect(
   host="weatherdata.cxskcu0wgqfm.us-east-1.rds.amazonaws.com",
   user="admin",
@@ -192,3 +221,42 @@ mycursor.execute(sql, val)
 mydb.commit()
 
 print(mycursor.rowcount, "record inserted.")
+"""
+
+"""
+Main Schema
+2/19/2024               dateQueried                         dateQueried       *   
+print(observedAt)       Moose Creek Wells 12:00 PM EST      observedLocation  
+print(condition)        Not observed                        condition
+print(pressure)         102.5kPa                            pressure    
+print(tendency)         Rising                              tendency
+print(temperature)      -11.0°C                             temperature
+print(dewPoint)         -18.8°C                             dewPoint
+print(humdity)          53%                                 humidity
+print(windDir)          W                                   windDirection
+print(windSpeed)        14                                  windSpeed
+"""
+
+
+
+Main = {
+    "dateQueried": str(dateQueried),
+    "timeQueried": str(timeQueried),
+    "observedLocation": observedAt,
+    "condition": condition,
+    "pressure": float(pressure),
+    "tendency": tendency,
+    "temperature": float(temperature[:-1]),
+    "dewPoint": float(dewPoint[:-1]),
+    "humidity": float(humdity[:-1]),
+    "windDirection": windDir,
+    "windSpeed": int(windSpeed)
+}
+
+json_object_main = json.dumps(Main, indent=4)
+
+
+# Writing to sample.json
+with open("Assets/Data/Main_" + str(dateQueried) + "_Queried_at_" + str(timeQueried)+".json", "w") as outfile:
+    print("Stored main data to " + str(outfile),file=logs)
+    outfile.write(json_object_main)

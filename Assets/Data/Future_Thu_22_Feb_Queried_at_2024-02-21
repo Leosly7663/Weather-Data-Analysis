@@ -1,0 +1,10 @@
+{
+    "DaysFromMain": 2,
+    "Date": "Thu_22_Feb",
+    "dayCondition": "60% Chance of rain showers or flurries",
+    "nightCondition": "40% Chance of rain showers or flurries",
+    "nightTemp": 3,
+    "dayTemp": 7,
+    "dateQueried": "2024-02-21",
+    "timeQueried": "11:41"
+}
