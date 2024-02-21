@@ -3,6 +3,10 @@ The goal of this project is to extend my python functionality into data storing 
 
 This program just abuses github actions so hard
 
+The reason for the JSON document storage style is for 2 reasons
+1. support for documentDB style storage
+2. potential for more scrape programs geared to different regions to create a standard document that will still work in the data display program seperating our data collection from data presentation 
+
 TODO:
 going to integrate the auto webscrape script into github actions to allow me to move the automation off my local machine, this could also be achieved by AWS EC2 but I'm not rich so thats not happening, sane reason this program relies off python-mysql instead of Flask because I do not want to pay for cloud compute :)
 https://www.python-engineer.com/posts/run-python-github-actions/ 
