@@ -14,6 +14,10 @@ The choice of JSON document storage serves two primary purposes:
 
 The script is embedded into GitHub Actions to execute the scraping process once every hour on a Linux virtual machine. The generated JSON files are committed to this repository. A secondary script processes the weather information and generates statistical representations using Matplotlib.
 
+## [Data Rights](https://weather.gc.ca/mainmenu/disclaimer_e.html)
+
+If this link is not operational please check [dataLicense.txt](https://github.com/Leosly7663/Weather-Data-Analysis/dataLicense.txt)
+
 ## Contribute
 This project is open source under the Apache 3.0 license feel free to clone this repo for your own uses or learning. I am also open to any bug fixes or modifications, please open a PR and leave a small note about what your changes fixes <3
 
