@@ -94,3 +94,24 @@ sortedMain = sorted(main, key=lambda x: x['PredictionDateTime'])
 # now we are organized as most recent prediction
 sortedMain.reverse()
 
+x = []
+y = []
+
+for elem in sortedMain:
+    x.append(elem["PredictionDateTime"])
+    y.append(elem["temperature"])
+
+import numpy
+import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
+
+x = mdates.date2num(x)
+
+mymodel = numpy.poly1d(numpy.polyfit(x, y, 8))
+
+myline = numpy.linspace(min(x), max(x), 10)
+
+plt.scatter(x, y)
+plt.plot(myline, mymodel(myline))
+plt.show()
+
