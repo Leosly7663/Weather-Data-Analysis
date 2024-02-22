@@ -1,19 +1,22 @@
-## This is a major Python project
-The goal of this project is to extend my python functionality into data storing and quering and using live data (1 hour rescrape) in matplotlib to show off math skills 
+# Python Weather Data Scraper and Visualizer
 
-This program just abuses github actions so hard
+This repository hosts a major Python project aimed at extending Python's functionality into data storing, querying, and live data visualization using Matplotlib to showcase mathematical skills.
 
-The reason for the JSON document storage style is for 2 reasons
-1. support for documentDB style storage
-2. potential for more scrape programs geared to different regions to create a standard document that will still work in the data display program seperating our data collection from data presentation 
+The project leverages GitHub Actions extensively for automation.
 
-TODO:
-going to integrate the auto webscrape script into github actions to allow me to move the automation off my local machine, this could also be achieved by AWS EC2 but I'm not rich so thats not happening, sane reason this program relies off python-mysql instead of Flask because I do not want to pay for cloud compute :)
-https://www.python-engineer.com/posts/run-python-github-actions/ 
+## Overview
 
-add status updates through actions to PM me if there are errors in the .py script, AWS manages any error with RDS
+The program retrieves raw HTML from [Environment and Climate Change Canada](https://www.weather.gc.ca) and scrapes through it for links to subpages containing weather data for approximately 170 cities. It then utilizes various regex functions to extract useful weather information for each city, which is subsequently stored in a standardized JSON document format.
 
-totally could have set up an event listener to monitor changes on weather.gc.ca to only run this when the data changes and make snapshots from there
-didnt consider that when making this an the 1 hour timer is functionally the same for our purposes
-may change this functionality in the future
+The choice of JSON document storage serves two primary purposes:
+1. It supports documentDB-style storage.
+2. It allows for the potential expansion of scrape programs tailored to different regions, creating a standard document that remains compatible with the data display program. This separation of data collection from data presentation enhances flexibility.
+
+The script is embedded into GitHub Actions to execute the scraping process once every hour on a Linux virtual machine. The generated JSON files are committed to this repository. A secondary script processes the weather information and generates statistical representations using Matplotlib.
+
+## Contribute
+This project is open source under the Apache 3.0 license feel free to clone this repo for your own uses or learning. I am also open to any bug fixes or modifications, please open a PR and leave a small note about what your changes fixes <3
+
+For more details on how to run Python scripts using GitHub Actions, refer to [this guide](https://www.python-engineer.com/posts/run-python-github-actions/).
+
 
