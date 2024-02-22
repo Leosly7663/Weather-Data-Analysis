@@ -16,7 +16,7 @@ The script is embedded into GitHub Actions to execute the scraping process once 
 
 ## [Data Rights](https://weather.gc.ca/mainmenu/disclaimer_e.html)
 
-If this link is not operational please check [dataLicense.txt](https://github.com/Leosly7663/Weather-Data-Analysis/dataLicense.txt)
+If this link is not operational please check [dataLicense.txt](https://github.com/Leosly7663/Weather-Data-Analysis/blob/main/dataLicense.md)
 
 ## Contribute
 This project is open source under the Apache 3.0 license feel free to clone this repo for your own uses or learning. I am also open to any bug fixes or modifications, please open a PR and leave a small note about what your changes fixes <3
