@@ -1,6 +1,10 @@
 import json
 import matplotlib
 from datetime import datetime, timedelta
+import numpy
+import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt2
 
 # ok so now I need to interpret this data in a meaningful way
 
@@ -26,7 +30,7 @@ next we want to compare these graphs over a week or month to give prediction of 
 then when supplied with todays prediction of ex: 2 days away -> calculate this value into a range and do it for all predictions
 """
 
-city = "Barrie"
+city = "Guelph"
 
 
 
@@ -94,24 +98,44 @@ sortedMain = sorted(main, key=lambda x: x['PredictionDateTime'])
 # now we are organized as most recent prediction
 sortedMain.reverse()
 
-x = []
-y = []
 
-for elem in sortedMain:
-    x.append(elem["PredictionDateTime"])
-    y.append(elem["temperature"])
 
-import numpy
-import matplotlib.dates as mdates
-import matplotlib.pyplot as plt
+options = ["humidity","temperature","pressure","dewPoint","windSpeed"]
+mode = ["polyfit","scatter"]
 
-x = mdates.date2num(x)
+for option in options:
+    x = []
+    y = []
+    for elem in sortedMain:
+        x.append( mdates.date2num(elem["PredictionDateTime"]))
+        y.append(elem[option])
 
-mymodel = numpy.poly1d(numpy.polyfit(x, y, 8))
 
-myline = numpy.linspace(min(x), max(x), 10)
+    """ plt.figure(figsize=(8, 6))
+    plt.xlabel('Prediction Date')
+    plt.ylabel(option)
 
-plt.scatter(x, y)
-plt.plot(myline, mymodel(myline))
-plt.show()
+    plt.title('Polyfit Plot of ' + option)
+    mymodel = numpy.poly1d(numpy.polyfit(x, y, len(x)))
+    myline = numpy.linspace(min(x), max(x), 10)
+    plt.scatter(x, y)
+    plt.plot(myline, mymodel(myline))
+    plt.savefig("assets/plots/" + mode[0] + "/2024-02-22_to_date" + option + '.png')
+    
+    plt.cla()
+    
+    plt.title('Scatter Plot of ' + option)
+    plt.scatter(x, y)
+    plt.savefig("assets/plots/" + mode[1] + "/2024-02-22_to_date" + option + '.png') """
 
+print("today is "+ str(datetime.date(datetime.now())))
+
+for elem in sortedFutures:
+    date_format = "%a_%d_%b"
+    # Convert the string to a datetime object
+    # TODO change the year set to strip from year querried to prevent data aging errors, also account for new years
+    print(elem["Date"])
+    date_object = datetime.date(datetime.strptime(elem["Date"], date_format)).replace(year=2024)
+    print(date_object)
+    if date_object == datetime.date(datetime.now()):
+        print("yes")
