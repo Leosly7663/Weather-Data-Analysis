@@ -2,9 +2,9 @@
     "DaysFromMain": 0,
     "Date": "Sat_2_Mar",
     "dayCondition": "70% Periods of rain or drizzle",
-    "nightCondition": "30% Chance of drizzle",
+    "nightCondition": "70% Periods of drizzle or rain",
     "nightTemp": 1,
     "dayTemp": 6,
     "dateQueried": "2024-03-02",
-    "timeQueried": "15h07m"
+    "timeQueried": "16h10m"
 }
