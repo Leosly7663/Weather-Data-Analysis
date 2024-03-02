@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-02-29",
+    "timeQueried": "03h10m",
+    "observedLocation": "Moose Creek Wells 10:00 PM EST",
+    "condition": "Not observed",
+    "pressure": 100.5,
+    "tendency": "Rising",
+    "temperature": -6.7,
+    "dewPoint": -12.1,
+    "humidity": 65.0,
+    "windDirection": "WNW",
+    "windSpeed": 27
+}
