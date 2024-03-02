@@ -111,12 +111,12 @@ for option in options:
         y.append(elem[option])
 
 
-    """ plt.figure(figsize=(8, 6))
+    plt.figure(figsize=(8, 6))
     plt.xlabel('Prediction Date')
     plt.ylabel(option)
 
     plt.title('Polyfit Plot of ' + option)
-    mymodel = numpy.poly1d(numpy.polyfit(x, y, len(x)))
+    mymodel = numpy.poly1d(numpy.polyfit(x, y, 10))
     myline = numpy.linspace(min(x), max(x), 10)
     plt.scatter(x, y)
     plt.plot(myline, mymodel(myline))
@@ -126,7 +126,7 @@ for option in options:
     
     plt.title('Scatter Plot of ' + option)
     plt.scatter(x, y)
-    plt.savefig("assets/plots/" + mode[1] + "/2024-02-22_to_date" + option + '.png') """
+    plt.savefig("assets/plots/" + mode[1] + "/2024-02-22_to_date" + option + '.png')
 
 print("today is "+ str(datetime.date(datetime.now())))
 
