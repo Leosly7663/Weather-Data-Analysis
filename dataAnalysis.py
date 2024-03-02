@@ -131,11 +131,13 @@ for option in options:
 print("today is "+ str(datetime.date(datetime.now())))
 
 for elem in sortedFutures:
-    date_format = "%a_%d_%b"
+    date_format = "%Y_%a_%d_%b"
     # Convert the string to a datetime object
     # TODO change the year set to strip from year querried to prevent data aging errors, also account for new years
-    print(elem["Date"])
-    date_object = datetime.date(datetime.strptime(elem["Date"], date_format)).replace(year=2024)
+
+    # we assign the year ahead of time because time strp will error if you strp feb 29 from a non leap year
+    day = "2024_" + elem["Date"]
+    date_object = datetime.date(datetime.strptime(day, date_format))
     print(date_object)
     if date_object == datetime.date(datetime.now()):
         print("yes")
