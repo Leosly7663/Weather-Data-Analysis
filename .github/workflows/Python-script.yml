@@ -2,6 +2,9 @@ name: Python Script
 on: 
   schedule:
     - cron: '0 * * * *' # Runs every hour
+  push:
+    branches:
+      - run
 jobs:
   run-script:
       runs-on: ubuntu-latest
