@@ -118,7 +118,10 @@ if onlineValidate():
         dewPoint = mainForecast[15]
         humdity = mainForecast[18]
         windDir = mainForecast[20] 
-        windSpeed = mainForecast[21] 
+        try:
+            windSpeed = int(mainForecast[21])
+        except ValueError:
+            windSpeed = 0
 
         Main = {
             "dateQueried": str(dateQueried),
@@ -199,6 +202,9 @@ if onlineValidate():
         -8°C                        dayLabel                dayTemp
         2/19/2024                   dateQueried             dateQueried
         11:34                       timeQueried             timeQueried
+
+        ['Observed at:', 'Moose Creek Wells', '7:00 PM', 'EST', 'Condition:', 'Not observed', 'Pressure:', '102.6', 'kPa', 'Tendency:', 'Rising', 'Temperature:', '0.8°', 'C', 'Dew point:', '0.3°', 'C', 'Humidity:', '97%', 'Wind:', 'calm', '1°', 'C', 'Condition:', 'Not observed', 'Pressure:', '102.6', 'kPa']
+
         """
 
 
