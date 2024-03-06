@@ -107,8 +107,7 @@ if onlineValidate():
     cityLinks = []
     cityNames = []
     scrapeCity(cityNames, cityLinks)
-
-
+    
     #for cityLink in cityLinks:
     for x in range(len(cityLinks)):
             
