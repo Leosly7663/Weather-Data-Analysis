@@ -22,7 +22,7 @@ You can access the data collected from this script through a Flask API endpoint 
 
 Example: [https://flask-apiw-eather.vercel.app/api/Guelph](https://flask-apiw-eather.vercel.app/api/Guelph)
 
-These endpoints are leveraged on my Portfolio through react HTTP requests to round out a full-stack application where I have build all components from the display to the API to the data base and data collection
+These endpoints are leveraged on my Portfolio through React.js HTTP requests to round out a full-stack application where I have build all components from the display to the API to the database and data collection
 
 ## [Data Rights](https://weather.gc.ca/mainmenu/disclaimer_e.html)
 
