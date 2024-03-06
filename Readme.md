@@ -14,15 +14,20 @@ The choice of JSON document storage serves two primary purposes:
 
 The script is embedded into GitHub Actions to execute the scraping process once every hour on a Linux virtual machine. The generated JSON files are committed to this repository. A secondary script processes the weather information and generates statistical representations using Matplotlib.
 
-Recent.json acts as a dictonary pointer connecting the city name to the most recent file data for that city for API access
+Recent.json acts as a dictionary pointer connecting the city name to the most recent file data for that city for API access.
+
+## API
+
+You can access the data collected from this script through a Flask API endpoint at [https://flask-apiw-eather.vercel.app/api/<cityName>](https://flask-apiw-eather.vercel.app/api/<cityName>). The information returned is a JSON element containing current weather data for the provided city. I have left this API publicly accessible due to the nature of the information; weather information is no secret, and I have no issue letting others use or critique my work. [Repository Link](https://github.com/Leosly7663/flaskAPIWeather/tree/main)
+
+Example: [https://flask-apiw-eather.vercel.app/api/Guelph](https://flask-apiw-eather.vercel.app/api/Guelph)
 
 ## [Data Rights](https://weather.gc.ca/mainmenu/disclaimer_e.html)
 
-If this link is not operational please check [dataLicense.txt](https://github.com/Leosly7663/Weather-Data-Analysis/blob/main/dataLicense.md)
+If this link is not operational, please check [dataLicense.txt](https://github.com/Leosly7663/Weather-Data-Analysis/blob/main/dataLicense.md).
 
 ## Contribute
-This project is open source under the Apache 2.0 license feel free to clone this repo for your own uses or learning. I am also open to any bug fixes or modifications, please open a PR and leave a small note about what your changes fixes <3
+
+This project is open source under the Apache 2.0 license. Feel free to clone this repo for your own uses or learning. I am also open to any bug fixes or modifications. Please open a PR and leave a small note about what your changes fix <3.
 
 For more details on how to run Python scripts using GitHub Actions, refer to [this guide](https://www.python-engineer.com/posts/run-python-github-actions/).
-
-
