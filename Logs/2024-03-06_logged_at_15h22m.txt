@@ -1,0 +1,533 @@
+Internet connection successful
+Connected to weather source
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Brent)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Lake of Two Rivers)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Alliston/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Apsley/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Bancroft/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Barrie/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name="Assets/Data/Barry's Bay/Main_2024-03-06_Queried_at_15h22m.json" mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Belleville/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Blind River/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Bracebridge/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Brampton/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Brantford/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Brockville/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name="Assets/Data/Burk's Falls/Main_2024-03-06_Queried_at_15h22m.json" mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Burlington/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Caledon/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Cambridge/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Chatham-Kent/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Cobourg/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Collingwood/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Cornwall/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Deep River/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Dorion/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Dryden/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Dunchurch/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Dundalk/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Earlton/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Fort Erie/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gananoque/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Goderich/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gogama/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gravenhurst/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greater Napanee/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Guelph/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Haldimand County/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Haliburton/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Halton Hills/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Hamilton/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Hawkesbury/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Hearst/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Huntsville/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ignace/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kaladar/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Fenelon Falls)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Lindsay)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kemptville/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kenora/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Killarney/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kincardine/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kingston/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kitchener-Waterloo/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Lambton Shores/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Leamington/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Lincoln/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/London/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Marathon/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Markham/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Midland/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Mississauga/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Morrisburg/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Mount Forest/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Muskoka/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/New Tecumseth/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Newmarket/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Niagara Falls/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Norfolk/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/North Bay/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/North Perth/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Oakville/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Orangeville/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Orillia/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Oshawa/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Kanata - Orléans)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Richmond - Metcalfe)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Owen Sound/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Oxtongue Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Parry Sound/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Pembroke/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Petawawa/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Peterborough/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Pickering/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Port Carling/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Port Colborne/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Port Elgin/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Port Perry/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Prince Edward (Picton)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Quinte West/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Renfrew/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Richmond Hill/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Rodney/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Rondeau (Provincial Park)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sarnia/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Saugeen Shores/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sharbot Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Shelburne/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Simcoe/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Smiths Falls/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/South Bruce Peninsula/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/St. Catharines/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/St. Thomas/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Stirling/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Stratford/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Strathroy/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sydenham/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Tillsonburg/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Timmins/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Tobermory/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Toronto/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Toronto Island/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Trenton/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Upsala/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Vaughan/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Vineland/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Walkerton/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Wawa/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Webequie/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Welland/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Westport/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Whitby/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/White River/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Wiarton/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Winchester/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Windsor/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Wingham/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Woodstock/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Main_2024-03-06_Queried_at_15h22m.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Wed_6_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Thu_7_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Fri_8_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Sat_9_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Sun_10_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Mon_11_Mar_Queried_at_2024-03-06.json' mode='w' encoding='cp1252'>
+Operation Success
