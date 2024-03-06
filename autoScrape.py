@@ -96,7 +96,8 @@ def scrapeWeather(links, mainForecast, futureForecast):
             for string in element.stripped_strings:
                 # Check if the string matches the regex pattern
                 loop += 1
-                if re.match("^", string): 
+                
+                if re.match("^(?!\\*)", string):
                     futureForecast[i].append(string)
         
 
