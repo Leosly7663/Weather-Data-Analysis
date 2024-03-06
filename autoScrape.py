@@ -144,6 +144,29 @@ if onlineValidate():
             print("Stored main data to " + str(outfile),file=logs)
             outfile.write(json_object_main)
 
+            outfileAsStr = "Assets/Data/"+cityNames[x]+"/Main_" + str(dateQueried) + "_Queried_at_" + str(timeQueried)+".json"
+
+
+            def read_json_file(filename):
+                with open(filename, 'r') as file:
+                    data = json.load(file)
+                return data
+
+            def write_json_file(data, filename):
+                with open(filename, 'w') as file:
+                    json.dump(data, file, indent=4)
+
+            filename = "Assets/Recent.json"
+
+            # Read JSON data from file
+            json_data = read_json_file(filename)
+
+            # Modify the dictionary as needed
+            json_data[cityNames[x]] = outfileAsStr
+
+            # Write the modified dictionary back to the file
+            write_json_file(json_data, filename)
+
         # strip one row of future conditions
         tonightText = futureForecast[0][0]
         if tonightText == "Tonight":

@@ -1,0 +1,3 @@
+Internet connection successful
+Connected to weather source
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Main_2024-03-06_Queried_at_00h30m.json' mode='w' encoding='cp1252'>

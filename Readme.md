@@ -14,6 +14,8 @@ The choice of JSON document storage serves two primary purposes:
 
 The script is embedded into GitHub Actions to execute the scraping process once every hour on a Linux virtual machine. The generated JSON files are committed to this repository. A secondary script processes the weather information and generates statistical representations using Matplotlib.
 
+Recent.json acts as a dictonary pointer connecting the city name to the most recent file data for that city for API access
+
 ## [Data Rights](https://weather.gc.ca/mainmenu/disclaimer_e.html)
 
 If this link is not operational please check [dataLicense.txt](https://github.com/Leosly7663/Weather-Data-Analysis/blob/main/dataLicense.md)
