@@ -18,7 +18,7 @@ Recent.json acts as a dictionary pointer connecting the city name to the most re
 
 ## API
 
-You can access the data collected from this script through a Flask API endpoint at [https://flask-apiw-eather.vercel.app/api/<cityName>](https://flask-apiw-eather.vercel.app/api/<cityName>). The information returned is a JSON element containing current weather data for the provided city. I have left this API publicly accessible due to the nature of the information; weather information is no secret, and I have no issue letting others use or critique my work. [Repository Link](https://github.com/Leosly7663/flaskAPIWeather/tree/main)
+You can access the data collected from this script through a Flask API endpoint at flask-apiw-eather.vercel.app/api/\<cityName\>. The information returned is a JSON documnet containing current weather data for the provided city. I have left this API publicly accessible due to the nature of the information; weather information is no secret, and I have no issue letting others use or critique my work. [Repository Link For Flask REST API](https://github.com/Leosly7663/flaskAPIWeather/tree/main)
 
 Example: [https://flask-apiw-eather.vercel.app/api/Guelph](https://flask-apiw-eather.vercel.app/api/Guelph)
 
