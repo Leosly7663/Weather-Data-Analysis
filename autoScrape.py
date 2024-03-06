@@ -71,14 +71,19 @@ def scrapeWeather(links, mainForecast, futureForecast):
         for string in element.stripped_strings:
             # Check if the string matches the regex pattern
             loop += 1
-            if re.match("^", string): 
-                # alright hear me out here
-                # the files are always formatted the same way and who tf is updating weather.gc.ca 
-                # so its not the worst idea to just pick out what I want instead of making a horribly complicated regex filter
-                # if you've dug this deep into my code to review it, you obv know what you're doing and we both know theres a better way to do this
-                # but im not getting paid for this and I'm a full time student so cherry picking our info is how we're doing it <3
-                if loop in {5,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34}:
-                    mainForecast.append(string)
+            if(loop in {5,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34}):
+                if(re.match("^", string)): 
+                    # alright hear me out here
+                    # the files are always formatted the same way and who tf is updating weather.gc.ca 
+                    # so its not the worst idea to just pick out what I want instead of making a horribly complicated regex filter
+                    # I'm a full time student so cherry picking our info is how we're doing it <3
+                    if (loop == 16 and string != "Tendency:"):
+                        mainForecast.append("x")
+                        mainForecast.append("not recorded at source")
+                        mainForecast.append(string)
+                    else:
+                        mainForecast.append(string)
+                
 
     loop = 0
 
@@ -101,41 +106,64 @@ if onlineValidate():
     cityLinks = []
     cityNames = []
     scrapeCity(cityNames, cityLinks)
-    mainForecast = []
-    futureForecast = [[],[],[],[],[],[],[]]
 
     #for cityLink in cityLinks:
     for x in range(len(cityLinks)):
+            
+        mainForecast = []
+        futureForecast = [[],[],[],[],[],[],[]]
         cityLink = cityLinks[x]
         scrapeWeather(cityLink,mainForecast,futureForecast)
 
-
-        observedAt = mainForecast[1] + " " + mainForecast[2] + " " + mainForecast[3]
-        condition = mainForecast[5]
-        pressure = mainForecast[7]
-        tendency = mainForecast[10]
-        temperature = mainForecast[12]
-        dewPoint = mainForecast[15]
-        humdity = mainForecast[18]
-        windDir = mainForecast[20] 
         try:
-            windSpeed = int(mainForecast[21])
-        except ValueError:
-            windSpeed = 0
+            observedAt = mainForecast[1] + " " + mainForecast[2] + " " + mainForecast[3]
+            condition = mainForecast[5]
+            tendency = mainForecast[10]
+            windDir = mainForecast[20] 
+        
 
-        Main = {
-            "dateQueried": str(dateQueried),
-            "timeQueried": str(timeQueried),
-            "observedLocation": observedAt,
-            "condition": condition,
-            "pressure": float(pressure),
-            "tendency": tendency,
-            "temperature": float(temperature[:-1]),
-            "dewPoint": float(dewPoint[:-1]),
-            "humidity": float(humdity[:-1]),
-            "windDirection": windDir,
-            "windSpeed": int(windSpeed)
-        }
+
+            def TypeCastInt(x):
+                temp = []
+                try:
+                    for elem in mainForecast[x]:
+                        if elem.isnumeric():
+                            temp.append(elem)
+                    
+                    var = "".join(temp)
+                    return int(var)
+                except ValueError:
+                    return None
+                
+            def TypeCastFlt(x):
+                temp = []
+                try:
+                    for elem in mainForecast[x]:
+                        if elem.isnumeric() or elem == ".":
+                            temp.append(elem)
+                    
+                    var = "".join(temp)
+                    return float(var)
+                except ValueError:
+                    return None
+
+
+            Main = {
+                "dateQueried": str(dateQueried),
+                "timeQueried": str(timeQueried),
+                "observedLocation": observedAt,
+                "condition": condition,
+                "pressure": TypeCastFlt(7),
+                "tendency": tendency,
+                "temperature": TypeCastFlt(12),
+                "dewPoint": TypeCastFlt(15),
+                "humidity": TypeCastFlt(18),
+                "windDirection": windDir,
+                "windSpeed": TypeCastInt(21)
+            }
+        
+        except IndexError:
+            Main = {"error":"No data collected for " + cityNames[x] + ". Error source upstream, consult weather data provider for details"}
 
         json_object_main = json.dumps(Main, indent=4)
 
