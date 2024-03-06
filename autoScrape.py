@@ -108,6 +108,8 @@ if onlineValidate():
     cityNames = []
     scrapeCity(cityNames, cityLinks)
 
+    print(cityNames)
+
     #for cityLink in cityLinks:
     for x in range(len(cityLinks)):
             
@@ -128,7 +130,7 @@ if onlineValidate():
                 temp = []
                 try:
                     for elem in mainForecast[x]:
-                        if elem.isnumeric():
+                        if elem.isnumeric() or elem == "-":
                             temp.append(elem)
                     
                     var = "".join(temp)
@@ -140,7 +142,8 @@ if onlineValidate():
                 temp = []
                 try:
                     for elem in mainForecast[x]:
-                        if elem.isnumeric() or elem == ".":
+                        # will make a whitelist if there is another filter condition
+                        if elem.isnumeric() or elem == "." or elem == "-":
                             temp.append(elem)
                     
                     var = "".join(temp)
