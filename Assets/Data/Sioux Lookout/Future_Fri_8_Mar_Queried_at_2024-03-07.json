@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 1,
     "Date": "Fri_8_Mar",
-    "dayCondition": "Overcast",
-    "nightCondition": "Cloudy periods",
-    "nightTemp": -16,
-    "dayTemp": -2,
+    "dayCondition": "30% Chance of flurries",
+    "nightCondition": "Clear",
+    "nightTemp": -20,
+    "dayTemp": -3,
     "dateQueried": "2024-03-07",
-    "timeQueried": "16h10m"
+    "timeQueried": "17h08m"
 }
