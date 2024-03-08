@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-08",
+    "timeQueried": "02h15m",
+    "observedLocation": "Attawapiskat Airport 9:00 PM EST",
+    "condition": "Cloudy",
+    "pressure": 102.5,
+    "tendency": "not recorded at source",
+    "temperature": -10.0,
+    "dewPoint": -12.5,
+    "humidity": 82.0,
+    "windDirection": "ESE",
+    "windSpeed": 15
+}
