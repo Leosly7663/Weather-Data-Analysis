@@ -32,4 +32,12 @@ If this link is not operational, please check [dataLicense.txt](https://github.c
 
 This project is open source under the Apache 2.0 license. Feel free to clone this repo for your own uses or learning. I am also open to any bug fixes or modifications. Please open a PR and leave a small note about what your changes fix <3.
 
+## History
+
+For me this whole project started in 11th grade for my highschool introduction to programming class in python. There we learned TKinter for making GUI's in python, and for our final project we had been tasked with making a small python game in the GUI, I really liked my teacher for this class, he was also my physics teacher and I wanted him to like me, and like any other try hard at school I wanted to brag. So instead of making a GUI I made a HUD a transparent top layer application that would serve some form of complicated data, I did not want to just make some game either I wanted data that would be intresting on a transparent screen something that would be useful, I decieded on making the application scrape the internet every min for weather data in my city. My computer thankfully was powerful enough for this app to work running an extremely reasource intense python webscraper and GUI but I can imagine now that when my teacher ran it, it make have lit his computer on fire. and that was the first day I shipped buggy code to production and since then I've been hooked. All jokes but I do see that as the first time I made something real. Atleast for my own use, if it didn't take the processing power of NASA to run I would probably has used it a few more times. 
+Now here we are almost 4 years later and I still have this cool but destructive app in my old school code, I decided I am now once again ready to try again. This next attempt was recorded in 
+
+
+
+
 For more details on how to run Python scripts using GitHub Actions, refer to [this guide](https://www.python-engineer.com/posts/run-python-github-actions/).
