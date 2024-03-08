@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Sat_9_Mar",
     "dayCondition": "Periods of rain",
-    "nightCondition": "Rain",
-    "nightTemp": -1,
+    "nightCondition": "Rain or snow",
+    "nightTemp": 1,
     "dayTemp": 7,
     "dateQueried": "2024-03-08",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h09m"
 }
