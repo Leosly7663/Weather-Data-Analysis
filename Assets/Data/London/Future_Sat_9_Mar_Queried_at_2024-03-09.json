@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 0,
     "Date": "Sat_9_Mar",
-    "dayCondition": "Rain or drizzle",
+    "dayCondition": "40% Chance of drizzle",
     "nightCondition": "40% Periods of drizzle",
     "nightTemp": -1,
-    "dayTemp": 9,
+    "dayTemp": 8,
     "dateQueried": "2024-03-09",
-    "timeQueried": "15h07m"
+    "timeQueried": "16h09m"
 }
