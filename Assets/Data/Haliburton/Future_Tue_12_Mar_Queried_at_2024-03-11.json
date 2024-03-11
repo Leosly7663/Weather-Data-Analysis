@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Tue_12_Mar",
     "dayCondition": "Sunny",
-    "nightCondition": "60% Chance of showers",
-    "nightTemp": 1,
-    "dayTemp": 10,
+    "nightCondition": "30% Chance of showers",
+    "nightTemp": 0,
+    "dayTemp": 11,
     "dateQueried": "2024-03-11",
-    "timeQueried": "14h08m"
+    "timeQueried": "15h09m"
 }
