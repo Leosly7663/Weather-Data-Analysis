@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-11",
+    "timeQueried": "07h09m",
+    "observedLocation": "Kingston Airport 3:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 100.5,
+    "tendency": "Rising",
+    "temperature": -0.8,
+    "dewPoint": -5.3,
+    "humidity": 71.0,
+    "windDirection": "WNW",
+    "windSpeed": 21
+}
