@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-11",
+    "timeQueried": "16h10m",
+    "observedLocation": "Garrison Petawawa 12:00 PM EDT",
+    "condition": "Sunny",
+    "pressure": 100.9,
+    "tendency": "Rising",
+    "temperature": 0.6,
+    "dewPoint": -10.9,
+    "humidity": 42.0,
+    "windDirection": "NW",
+    "windSpeed": 42
+}
