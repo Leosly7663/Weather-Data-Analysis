@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-11",
+    "timeQueried": "00h40m",
+    "observedLocation": "Moosonee Airport 8:00 PM EDT",
+    "condition": "Clear",
+    "pressure": 101.1,
+    "tendency": "not recorded at source",
+    "temperature": -7.1,
+    "dewPoint": -12.1,
+    "humidity": 67.0,
+    "windDirection": "NW",
+    "windSpeed": 26
+}
