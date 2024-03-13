@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-13",
+    "timeQueried": "01h43m",
+    "observedLocation": "Cameron Falls 9:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 100.6,
+    "tendency": "Rising",
+    "temperature": 3.8,
+    "dewPoint": -1.9,
+    "humidity": 66.0,
+    "windDirection": "SSE",
+    "windSpeed": 3
+}
