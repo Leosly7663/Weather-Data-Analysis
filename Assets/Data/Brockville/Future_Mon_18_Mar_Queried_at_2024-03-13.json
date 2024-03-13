@@ -1,0 +1,10 @@
+{
+    "DaysFromMain": 5,
+    "Date": "Mon_18_Mar",
+    "dayCondition": "60% Chance of flurries or rain showers",
+    "nightCondition": "60% Chance of rain showers or flurries",
+    "nightTemp": -8,
+    "dayTemp": 3,
+    "dateQueried": "2024-03-13",
+    "timeQueried": "09h09m"
+}

@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-13",
+    "timeQueried": "09h09m",
+    "observedLocation": "Toronto Pearson Int'l Airport 5:00 AM EDT",
+    "condition": "Clear",
+    "pressure": 100.7,
+    "tendency": "Falling",
+    "temperature": 6.4,
+    "dewPoint": 3.0,
+    "humidity": 79.0,
+    "windDirection": "E",
+    "windSpeed": 5
+}
