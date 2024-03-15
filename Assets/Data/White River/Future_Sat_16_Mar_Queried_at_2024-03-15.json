@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Sat_16_Mar",
     "dayCondition": "Snow mixed with rain",
-    "nightCondition": "Flurries",
-    "nightTemp": -9,
+    "nightCondition": "Flurries or rain showers",
+    "nightTemp": -5,
     "dayTemp": 3,
     "dateQueried": "2024-03-15",
-    "timeQueried": "15h08m"
+    "timeQueried": "16h11m"
 }
