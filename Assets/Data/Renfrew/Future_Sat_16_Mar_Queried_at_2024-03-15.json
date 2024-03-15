@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Sat_16_Mar",
     "dayCondition": "40% Chance of showers",
-    "nightCondition": "Flurries or rain showers",
-    "nightTemp": 0,
+    "nightCondition": "Showers",
+    "nightTemp": 1,
     "dayTemp": 6,
     "dateQueried": "2024-03-15",
-    "timeQueried": "14h09m"
+    "timeQueried": "15h08m"
 }
