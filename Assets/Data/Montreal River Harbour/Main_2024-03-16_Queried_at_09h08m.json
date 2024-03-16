@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-16",
+    "timeQueried": "09h08m",
+    "observedLocation": "Wawa Airport 5:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 100.1,
+    "tendency": "not recorded at source",
+    "temperature": 0.8,
+    "dewPoint": -1.0,
+    "humidity": 88.0,
+    "windDirection": "S",
+    "windSpeed": 22
+}
