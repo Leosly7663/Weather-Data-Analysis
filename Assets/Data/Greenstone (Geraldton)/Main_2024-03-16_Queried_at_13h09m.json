@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-16",
+    "timeQueried": "13h09m",
+    "observedLocation": "Geraldton Airport 9:00 AM EDT",
+    "condition": "Cloudy",
+    "pressure": 99.3,
+    "tendency": "not recorded at source",
+    "temperature": 0.8,
+    "dewPoint": 0.8,
+    "humidity": 100.0,
+    "windDirection": "W",
+    "windSpeed": 15
+}
