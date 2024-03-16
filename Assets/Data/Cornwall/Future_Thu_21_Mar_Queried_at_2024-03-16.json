@@ -2,9 +2,9 @@
     "DaysFromMain": 5,
     "Date": "Thu_21_Mar",
     "dayCondition": "A mix of sun and cloud",
-    "nightCondition": "40% Chance of rain showers or flurries",
-    "nightTemp": -7,
-    "dayTemp": 2,
+    "nightCondition": "Cloudy periods",
+    "nightTemp": -12,
+    "dayTemp": -1,
     "dateQueried": "2024-03-16",
-    "timeQueried": "14h07m"
+    "timeQueried": "15h07m"
 }
