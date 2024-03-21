@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-21",
+    "timeQueried": "04h11m",
+    "observedLocation": "Upsala 11:00 PM CDT",
+    "condition": "Not observed",
+    "pressure": 102.5,
+    "tendency": "Rising",
+    "temperature": -20.5,
+    "dewPoint": -23.2,
+    "humidity": 80.0,
+    "windDirection": "calm",
+    "windSpeed": -21
+}
