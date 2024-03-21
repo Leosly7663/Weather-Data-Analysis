@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-21",
+    "timeQueried": "18h11m",
+    "observedLocation": "Brockville 2:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 102.1,
+    "tendency": "Rising",
+    "temperature": -4.0,
+    "dewPoint": -14.0,
+    "humidity": 46.0,
+    "windDirection": "W",
+    "windSpeed": 17
+}
