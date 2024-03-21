@@ -2,9 +2,9 @@
     "DaysFromMain": 5,
     "Date": "Tue_26_Mar",
     "dayCondition": "60% Chance of snow",
-    "nightCondition": "40% Chance of snow",
-    "nightTemp": -14,
+    "nightCondition": "60% Chance of snow",
+    "nightTemp": -16,
     "dayTemp": -4,
     "dateQueried": "2024-03-21",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h12m"
 }
