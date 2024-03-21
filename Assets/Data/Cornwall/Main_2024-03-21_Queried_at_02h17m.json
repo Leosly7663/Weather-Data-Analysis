@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-21",
+    "timeQueried": "02h17m",
+    "observedLocation": "Saint-Anicet 10:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 100.5,
+    "tendency": "Rising",
+    "temperature": -1.5,
+    "dewPoint": -11.4,
+    "humidity": 47.0,
+    "windDirection": "W",
+    "windSpeed": 18
+}
