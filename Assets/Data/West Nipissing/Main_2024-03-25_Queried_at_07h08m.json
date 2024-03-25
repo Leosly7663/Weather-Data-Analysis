@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-25",
+    "timeQueried": "07h08m",
+    "observedLocation": "North Bay Airport 3:00 AM EDT",
+    "condition": "Cloudy",
+    "pressure": 102.8,
+    "tendency": "not recorded at source",
+    "temperature": -3.9,
+    "dewPoint": -15.8,
+    "humidity": 39.0,
+    "windDirection": "ESE",
+    "windSpeed": 21
+}
