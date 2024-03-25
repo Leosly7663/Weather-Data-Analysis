@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-25",
+    "timeQueried": "03h11m",
+    "observedLocation": "Armstrong Airport 11:00 PM EDT",
+    "condition": "Cloudy",
+    "pressure": 102.3,
+    "tendency": "not recorded at source",
+    "temperature": -8.1,
+    "dewPoint": -15.7,
+    "humidity": 54.0,
+    "windDirection": "NNE",
+    "windSpeed": 4
+}
