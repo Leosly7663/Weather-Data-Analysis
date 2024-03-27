@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Thu_28_Mar",
     "dayCondition": "Periods of light snow",
-    "nightCondition": "Cloudy periods",
-    "nightTemp": -14,
+    "nightCondition": "Clear",
+    "nightTemp": -10,
     "dayTemp": -3,
     "dateQueried": "2024-03-27",
-    "timeQueried": "15h10m"
+    "timeQueried": "16h12m"
 }
