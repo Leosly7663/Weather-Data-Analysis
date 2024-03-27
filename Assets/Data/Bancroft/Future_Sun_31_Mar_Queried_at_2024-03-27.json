@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 4,
     "Date": "Sun_31_Mar",
-    "dayCondition": "Sunny",
+    "dayCondition": "30% Chance of flurries",
     "nightCondition": "Clear",
-    "nightTemp": -9,
-    "dayTemp": 7,
+    "nightTemp": -5,
+    "dayTemp": 8,
     "dateQueried": "2024-03-27",
-    "timeQueried": "14h09m"
+    "timeQueried": "15h10m"
 }
