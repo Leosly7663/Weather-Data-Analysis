@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-03-28",
+    "timeQueried": "05h09m",
+    "observedLocation": "Algonquin Park East Gate 1:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.7,
+    "tendency": "Rising",
+    "temperature": -0.1,
+    "dewPoint": -3.8,
+    "humidity": 76.0,
+    "windDirection": "W",
+    "windSpeed": 5
+}
