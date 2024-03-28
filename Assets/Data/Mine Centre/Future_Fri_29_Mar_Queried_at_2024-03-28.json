@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Fri_29_Mar",
     "dayCondition": "Increasing cloudiness",
-    "nightCondition": "Cloudy",
-    "nightTemp": -4,
+    "nightCondition": "Periods of snow",
+    "nightTemp": -2,
     "dayTemp": 5,
     "dateQueried": "2024-03-28",
-    "timeQueried": "15h10m"
+    "timeQueried": "16h09m"
 }
