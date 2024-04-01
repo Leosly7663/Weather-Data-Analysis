@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-01",
+    "timeQueried": "09h10m",
+    "observedLocation": "Armstrong 4:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 102.1,
+    "tendency": "Rising",
+    "temperature": -15.2,
+    "dewPoint": -17.0,
+    "humidity": 86.0,
+    "windDirection": "NW",
+    "windSpeed": 2
+}
