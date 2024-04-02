@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-02",
+    "timeQueried": "12h16m",
+    "observedLocation": "Timmins Victor Power Airport 8:00 AM EDT",
+    "condition": "Sunny",
+    "pressure": 102.2,
+    "tendency": "Falling",
+    "temperature": -5.5,
+    "dewPoint": -12.0,
+    "humidity": 60.0,
+    "windDirection": "E",
+    "windSpeed": 11
+}
