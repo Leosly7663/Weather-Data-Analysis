@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-02",
+    "timeQueried": "19h06m",
+    "observedLocation": "Cobourg 3:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 100.8,
+    "tendency": "Falling",
+    "temperature": 10.7,
+    "dewPoint": -0.9,
+    "humidity": 44.0,
+    "windDirection": "E",
+    "windSpeed": 16
+}
