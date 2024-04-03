@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Thu_4_Apr",
     "dayCondition": "Periods of snow",
-    "nightCondition": "40% Chance of flurries",
-    "nightTemp": -1,
+    "nightCondition": "60% Chance of flurries",
+    "nightTemp": -2,
     "dayTemp": 3,
     "dateQueried": "2024-04-03",
-    "timeQueried": "14h08m"
+    "timeQueried": "15h09m"
 }
