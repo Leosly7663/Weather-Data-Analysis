@@ -2,9 +2,9 @@
     "DaysFromMain": 0,
     "Date": "Wed_3_Apr",
     "dayCondition": "Snow",
-    "nightCondition": "Snow",
-    "nightTemp": 0,
-    "dayTemp": 2,
+    "nightCondition": "Periods of snow",
+    "nightTemp": -1,
+    "dayTemp": 1,
     "dateQueried": "2024-04-03",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h10m"
 }
