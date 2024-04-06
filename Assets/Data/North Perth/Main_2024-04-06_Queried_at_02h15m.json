@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-06",
+    "timeQueried": "02h15m",
+    "observedLocation": "Mount Forest 10:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.6,
+    "tendency": "Rising",
+    "temperature": 1.5,
+    "dewPoint": 0.3,
+    "humidity": 91.0,
+    "windDirection": "NNW",
+    "windSpeed": 11
+}
