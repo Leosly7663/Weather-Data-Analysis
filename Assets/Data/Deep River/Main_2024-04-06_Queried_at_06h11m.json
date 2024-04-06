@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-06",
+    "timeQueried": "06h11m",
+    "observedLocation": "Pembroke 2:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.3,
+    "tendency": "Rising",
+    "temperature": 3.3,
+    "dewPoint": 0.2,
+    "humidity": 80.0,
+    "windDirection": "NW",
+    "windSpeed": 14
+}
