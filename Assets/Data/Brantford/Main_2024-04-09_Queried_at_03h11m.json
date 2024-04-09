@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-09",
+    "timeQueried": "03h11m",
+    "observedLocation": "Brantford Municipal Airport 11:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.7,
+    "tendency": "Rising",
+    "temperature": 4.8,
+    "dewPoint": -0.3,
+    "humidity": 70.0,
+    "windDirection": "calm",
+    "windSpeed": 5
+}
