@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-09",
+    "timeQueried": "06h12m",
+    "observedLocation": "Sandy Lake Airport 1:00 AM CDT",
+    "condition": "Cloudy",
+    "pressure": 100.9,
+    "tendency": "not recorded at source",
+    "temperature": 5.0,
+    "dewPoint": -3.1,
+    "humidity": 56.0,
+    "windDirection": "ESE",
+    "windSpeed": 5
+}
