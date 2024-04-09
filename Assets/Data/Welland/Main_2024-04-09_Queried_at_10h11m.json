@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-09",
+    "timeQueried": "10h11m",
+    "observedLocation": "Welland-Pelham 6:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.7,
+    "tendency": "Falling",
+    "temperature": 2.8,
+    "dewPoint": 1.9,
+    "humidity": 93.0,
+    "windDirection": "calm",
+    "windSpeed": 3
+}
