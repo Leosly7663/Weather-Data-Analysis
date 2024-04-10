@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-10",
+    "timeQueried": "23h10m",
+    "observedLocation": "Terrace Bay 7:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.0,
+    "tendency": "Falling",
+    "temperature": 6.3,
+    "dewPoint": 3.2,
+    "humidity": 80.0,
+    "windDirection": "ESE",
+    "windSpeed": 4
+}
