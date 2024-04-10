@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-10",
+    "timeQueried": "12h15m",
+    "observedLocation": "Big Trout Lake Airport 7:00 AM CDT",
+    "condition": "Cloudy",
+    "pressure": 100.5,
+    "tendency": "not recorded at source",
+    "temperature": 1.2,
+    "dewPoint": -0.5,
+    "humidity": 88.0,
+    "windDirection": "calm",
+    "windSpeed": null
+}
