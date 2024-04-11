@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Fri_12_Apr",
     "dayCondition": "Rain",
-    "nightCondition": "60% Chance of rain showers or flurries",
-    "nightTemp": 0,
+    "nightCondition": "Cloudy periods",
+    "nightTemp": 1,
     "dayTemp": 2,
     "dateQueried": "2024-04-11",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h10m"
 }
