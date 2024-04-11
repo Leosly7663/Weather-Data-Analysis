@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-11",
+    "timeQueried": "17h08m",
+    "observedLocation": "Chapleau Airport 1:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 100.8,
+    "tendency": "not recorded at source",
+    "temperature": 13.9,
+    "dewPoint": 0.4,
+    "humidity": 40.0,
+    "windDirection": "SE",
+    "windSpeed": 15
+}

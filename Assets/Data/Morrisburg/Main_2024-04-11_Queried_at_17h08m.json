@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-11",
+    "timeQueried": "17h08m",
+    "observedLocation": "Kemptville 1:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 100.9,
+    "tendency": "Falling",
+    "temperature": 10.3,
+    "dewPoint": 10.0,
+    "humidity": 98.0,
+    "windDirection": "E",
+    "windSpeed": 6
+}
