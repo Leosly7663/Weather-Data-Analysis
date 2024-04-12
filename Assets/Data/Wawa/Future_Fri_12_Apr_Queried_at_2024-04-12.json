@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 0,
     "Date": "Fri_12_Apr",
-    "dayCondition": "Periods of rain mixed with snow",
-    "nightCondition": "Increasing cloudiness",
+    "dayCondition": "Periods of rain",
+    "nightCondition": "Mainly cloudy",
     "nightTemp": -3,
     "dayTemp": 6,
     "dateQueried": "2024-04-12",
-    "timeQueried": "12h15m"
+    "timeQueried": "13h09m"
 }
