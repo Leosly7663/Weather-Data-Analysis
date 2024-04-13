@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-13",
+    "timeQueried": "20h08m",
+    "observedLocation": "Toronto City Centre Airport 4:00 PM EDT",
+    "condition": "Partly Cloudy",
+    "pressure": 100.9,
+    "tendency": "not recorded at source",
+    "temperature": 11.8,
+    "dewPoint": 1.7,
+    "humidity": 50.0,
+    "windDirection": "WNW",
+    "windSpeed": 42
+}
