@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-16",
+    "timeQueried": "08h12m",
+    "observedLocation": "Marathon Airport 4:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 102.3,
+    "tendency": "not recorded at source",
+    "temperature": 1.3,
+    "dewPoint": -7.1,
+    "humidity": 54.0,
+    "windDirection": "ENE",
+    "windSpeed": 8
+}
