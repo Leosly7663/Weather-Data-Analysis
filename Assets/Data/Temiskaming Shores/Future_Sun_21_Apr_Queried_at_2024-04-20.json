@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 1,
     "Date": "Sun_21_Apr",
-    "dayCondition": "Flurries at times heavy",
+    "dayCondition": "Flurries at times heavy or rain showers",
     "nightCondition": "Clear",
-    "nightTemp": -14,
+    "nightTemp": -12,
     "dayTemp": 4,
     "dateQueried": "2024-04-20",
-    "timeQueried": "15h08m"
+    "timeQueried": "16h11m"
 }

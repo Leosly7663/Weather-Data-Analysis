@@ -2,9 +2,9 @@
     "DaysFromMain": 5,
     "Date": "Thu_25_Apr",
     "dayCondition": "Sunny",
-    "nightCondition": "Cloudy periods",
-    "nightTemp": 0,
+    "nightCondition": "Cloudy",
+    "nightTemp": 3,
     "dayTemp": 16,
     "dateQueried": "2024-04-20",
-    "timeQueried": "15h08m"
+    "timeQueried": "16h11m"
 }
