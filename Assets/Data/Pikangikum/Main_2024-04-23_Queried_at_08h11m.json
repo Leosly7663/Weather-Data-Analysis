@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-23",
+    "timeQueried": "08h11m",
+    "observedLocation": "Red Lake Airport 3:00 AM CDT",
+    "condition": "Not observed",
+    "pressure": 100.5,
+    "tendency": "not recorded at source",
+    "temperature": 2.8,
+    "dewPoint": -9.4,
+    "humidity": 40.0,
+    "windDirection": "ENE",
+    "windSpeed": 13
+}
