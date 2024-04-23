@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Wed_24_Apr",
     "dayCondition": "Increasing cloudiness",
-    "nightCondition": "Cloudy periods",
-    "nightTemp": 2,
+    "nightCondition": "Clear",
+    "nightTemp": -1,
     "dayTemp": 11,
     "dateQueried": "2024-04-23",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h11m"
 }
