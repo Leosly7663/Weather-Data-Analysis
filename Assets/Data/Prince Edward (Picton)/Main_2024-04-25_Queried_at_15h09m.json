@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-25",
+    "timeQueried": "15h09m",
+    "observedLocation": "CFB Trenton 11:00 AM EDT",
+    "condition": "Sunny",
+    "pressure": 103.2,
+    "tendency": "Rising",
+    "temperature": 4.5,
+    "dewPoint": -7.6,
+    "humidity": 41.0,
+    "windDirection": "ENE",
+    "windSpeed": 5
+}
