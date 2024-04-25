@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 2,
     "Date": "Sat_27_Apr",
-    "dayCondition": "Periods of rain",
-    "nightCondition": "70% Periods of rain",
-    "nightTemp": 7,
-    "dayTemp": 14,
+    "dayCondition": "Rain",
+    "nightCondition": "Periods of rain",
+    "nightTemp": 3,
+    "dayTemp": 16,
     "dateQueried": "2024-04-25",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h11m"
 }
