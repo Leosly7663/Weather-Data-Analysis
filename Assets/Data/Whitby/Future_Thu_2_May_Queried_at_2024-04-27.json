@@ -2,9 +2,9 @@
     "DaysFromMain": 5,
     "Date": "Thu_2_May",
     "dayCondition": "A mix of sun and cloud",
-    "nightCondition": "30% Chance of showers",
-    "nightTemp": 5,
-    "dayTemp": 15,
+    "nightCondition": "40% Chance of showers",
+    "nightTemp": 9,
+    "dayTemp": 20,
     "dateQueried": "2024-04-27",
-    "timeQueried": "14h07m"
+    "timeQueried": "15h08m"
 }
