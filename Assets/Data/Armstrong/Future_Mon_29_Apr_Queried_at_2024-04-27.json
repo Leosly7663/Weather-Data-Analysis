@@ -2,9 +2,9 @@
     "DaysFromMain": 2,
     "Date": "Mon_29_Apr",
     "dayCondition": "Periods of rain or freezing rain",
-    "nightCondition": "Periods of rain or snow",
+    "nightCondition": "Periods of rain or freezing rain",
     "nightTemp": -1,
-    "dayTemp": 4,
+    "dayTemp": 2,
     "dateQueried": "2024-04-27",
-    "timeQueried": "15h08m"
+    "timeQueried": "16h10m"
 }
