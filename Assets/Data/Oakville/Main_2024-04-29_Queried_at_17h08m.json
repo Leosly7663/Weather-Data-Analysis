@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-29",
+    "timeQueried": "17h08m",
+    "observedLocation": "Burlington Lift Bridge 1:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.8,
+    "tendency": "Falling",
+    "temperature": 6.4,
+    "dewPoint": null,
+    "humidity": 6.0,
+    "windDirection": "Condition:",
+    "windSpeed": null
+}
