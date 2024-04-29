@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Tue_30_Apr",
     "dayCondition": "Periods of snow mixed with rain",
-    "nightCondition": "30% Chance of rain showers or flurries",
-    "nightTemp": 2,
+    "nightCondition": "Cloudy",
+    "nightTemp": 1,
     "dayTemp": 7,
     "dateQueried": "2024-04-29",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h11m"
 }
