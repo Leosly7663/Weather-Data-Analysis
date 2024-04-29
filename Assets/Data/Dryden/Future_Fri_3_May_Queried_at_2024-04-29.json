@@ -1,0 +1,10 @@
+{
+    "DaysFromMain": 4,
+    "Date": "Fri_3_May",
+    "dayCondition": "40% Periods of rain or snow",
+    "nightCondition": "60% Periods of rain",
+    "nightTemp": 0,
+    "dayTemp": 10,
+    "dateQueried": "2024-04-29",
+    "timeQueried": "10h10m"
+}
