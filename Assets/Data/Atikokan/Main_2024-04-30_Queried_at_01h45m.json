@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-04-30",
+    "timeQueried": "01h45m",
+    "observedLocation": "Atikokan 8:00 PM EST",
+    "condition": "Not observed",
+    "pressure": 101.0,
+    "tendency": "Rising",
+    "temperature": 0.8,
+    "dewPoint": 0.2,
+    "humidity": 95.0,
+    "windDirection": "ENE",
+    "windSpeed": 5
+}
