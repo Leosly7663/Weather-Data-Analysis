@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-01",
+    "timeQueried": "07h10m",
+    "observedLocation": "Gore Bay-Manitoulin Airport 3:00 AM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.3,
+    "tendency": "not recorded at source",
+    "temperature": 5.1,
+    "dewPoint": 5.0,
+    "humidity": 99.0,
+    "windDirection": "SW",
+    "windSpeed": 5
+}
