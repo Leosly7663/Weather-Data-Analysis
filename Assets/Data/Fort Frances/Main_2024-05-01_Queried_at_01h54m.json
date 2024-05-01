@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-01",
+    "timeQueried": "01h54m",
+    "observedLocation": "Fort Frances 8:00 PM CDT",
+    "condition": "Not observed",
+    "pressure": 100.9,
+    "tendency": "Falling",
+    "temperature": 8.6,
+    "dewPoint": 4.1,
+    "humidity": 74.0,
+    "windDirection": "ENE",
+    "windSpeed": 7
+}
