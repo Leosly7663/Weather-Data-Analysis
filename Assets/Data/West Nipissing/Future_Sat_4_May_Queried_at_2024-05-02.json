@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 2,
     "Date": "Sat_4_May",
-    "dayCondition": "Cloudy",
-    "nightCondition": "Cloudy",
+    "dayCondition": "A mix of sun and cloud",
+    "nightCondition": "40% Chance of showers",
     "nightTemp": 9,
-    "dayTemp": 18,
+    "dayTemp": 20,
     "dateQueried": "2024-05-02",
-    "timeQueried": "15h10m"
+    "timeQueried": "16h11m"
 }
