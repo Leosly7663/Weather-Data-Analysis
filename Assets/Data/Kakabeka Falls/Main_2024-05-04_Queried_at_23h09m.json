@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-04",
+    "timeQueried": "23h09m",
+    "observedLocation": "Thunder Bay Airport 7:00 PM EDT",
+    "condition": "Light Rain",
+    "pressure": 101.4,
+    "tendency": "Falling",
+    "temperature": 8.1,
+    "dewPoint": 7.0,
+    "humidity": 93.0,
+    "windDirection": "NNW",
+    "windSpeed": 4
+}
