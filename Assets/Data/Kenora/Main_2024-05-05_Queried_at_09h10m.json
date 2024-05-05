@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-05",
+    "timeQueried": "09h10m",
+    "observedLocation": "Kenora Airport 4:00 AM CDT",
+    "condition": "Mainly Clear",
+    "pressure": 101.7,
+    "tendency": "Rising",
+    "temperature": 2.6,
+    "dewPoint": 1.1,
+    "humidity": 90.0,
+    "windDirection": "WSW",
+    "windSpeed": 10
+}
