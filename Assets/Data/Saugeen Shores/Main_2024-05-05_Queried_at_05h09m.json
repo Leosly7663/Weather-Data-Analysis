@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-05",
+    "timeQueried": "05h09m",
+    "observedLocation": "Wiarton Airport 1:00 AM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.3,
+    "tendency": "Falling",
+    "temperature": 17.3,
+    "dewPoint": 13.7,
+    "humidity": 79.0,
+    "windDirection": "SSE",
+    "windSpeed": 19
+}
