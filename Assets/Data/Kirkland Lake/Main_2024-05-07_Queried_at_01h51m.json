@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-07",
+    "timeQueried": "01h51m",
+    "observedLocation": "Kirkland Lake 9:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.4,
+    "tendency": "Falling",
+    "temperature": 10.2,
+    "dewPoint": 2.1,
+    "humidity": 57.0,
+    "windDirection": "N",
+    "windSpeed": 4
+}
