@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-07",
+    "timeQueried": "10h10m",
+    "observedLocation": "Hamilton Munro Int'l Airport 6:00 AM EDT",
+    "condition": "Mainly Clear",
+    "pressure": 101.2,
+    "tendency": "Falling",
+    "temperature": 6.8,
+    "dewPoint": 1.7,
+    "humidity": 70.0,
+    "windDirection": "NNE",
+    "windSpeed": 10
+}
