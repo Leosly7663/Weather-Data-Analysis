@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-08",
+    "timeQueried": "21h11m",
+    "observedLocation": "Garrison Petawawa 5:00 PM EDT",
+    "condition": "Fog",
+    "pressure": 100.5,
+    "tendency": "Rising",
+    "temperature": 10.0,
+    "dewPoint": 8.0,
+    "humidity": 87.0,
+    "windDirection": "N",
+    "windSpeed": 15
+}
