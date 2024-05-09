@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-09",
+    "timeQueried": "16h11m",
+    "observedLocation": "Vineland Station 12:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.1,
+    "tendency": "Falling",
+    "temperature": 12.0,
+    "dewPoint": 7.8,
+    "humidity": 75.0,
+    "windDirection": "NE",
+    "windSpeed": 13
+}
