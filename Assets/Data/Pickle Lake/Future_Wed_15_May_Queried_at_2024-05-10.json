@@ -2,9 +2,9 @@
     "DaysFromMain": 5,
     "Date": "Wed_15_May",
     "dayCondition": "Cloudy",
-    "nightCondition": "Cloudy",
-    "nightTemp": 2,
+    "nightCondition": "30% Chance of showers",
+    "nightTemp": 3,
     "dayTemp": 15,
     "dateQueried": "2024-05-10",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h12m"
 }
