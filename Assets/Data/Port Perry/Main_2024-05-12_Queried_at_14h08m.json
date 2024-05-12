@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-12",
+    "timeQueried": "14h08m",
+    "observedLocation": "Uxbridge 10:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.1,
+    "tendency": "Rising",
+    "temperature": 11.9,
+    "dewPoint": 8.6,
+    "humidity": 80.0,
+    "windDirection": "NW",
+    "windSpeed": 10
+}
