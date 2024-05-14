@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-14",
+    "timeQueried": "15h11m",
+    "observedLocation": "Earlton Airport 11:00 AM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.5,
+    "tendency": "not recorded at source",
+    "temperature": 7.4,
+    "dewPoint": 1.1,
+    "humidity": 64.0,
+    "windDirection": "NNW",
+    "windSpeed": 17
+}
