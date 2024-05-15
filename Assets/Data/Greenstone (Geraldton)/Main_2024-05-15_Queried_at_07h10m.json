@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-15",
+    "timeQueried": "07h10m",
+    "observedLocation": "Geraldton 3:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.9,
+    "tendency": "Rising",
+    "temperature": 3.1,
+    "dewPoint": 0.5,
+    "humidity": 83.0,
+    "windDirection": "ENE",
+    "windSpeed": 5
+}
