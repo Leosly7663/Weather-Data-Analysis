@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-17",
+    "timeQueried": "05h10m",
+    "observedLocation": "Fort Severn Airport 1:00 AM EDT",
+    "condition": "Fog",
+    "pressure": 101.5,
+    "tendency": "not recorded at source",
+    "temperature": 0.2,
+    "dewPoint": null,
+    "humidity": 30.0,
+    "windDirection": "Visibility:",
+    "windSpeed": 8
+}
