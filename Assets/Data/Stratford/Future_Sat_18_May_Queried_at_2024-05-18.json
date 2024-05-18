@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 0,
     "Date": "Sat_18_May",
-    "dayCondition": "30% Periods of drizzle",
-    "nightCondition": "Clear",
+    "dayCondition": "Clearing",
+    "nightCondition": "A few clouds",
     "nightTemp": 12,
-    "dayTemp": 27,
+    "dayTemp": 25,
     "dateQueried": "2024-05-18",
-    "timeQueried": "13h10m"
+    "timeQueried": "15h10m"
 }
