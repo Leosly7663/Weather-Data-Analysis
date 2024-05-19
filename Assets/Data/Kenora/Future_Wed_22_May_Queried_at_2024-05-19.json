@@ -2,9 +2,9 @@
     "DaysFromMain": 3,
     "Date": "Wed_22_May",
     "dayCondition": "Periods of rain",
-    "nightCondition": "Periods of rain or snow",
-    "nightTemp": 4,
-    "dayTemp": 8,
+    "nightCondition": "Periods of rain",
+    "nightTemp": 5,
+    "dayTemp": 11,
     "dateQueried": "2024-05-19",
-    "timeQueried": "15h09m"
+    "timeQueried": "16h11m"
 }
