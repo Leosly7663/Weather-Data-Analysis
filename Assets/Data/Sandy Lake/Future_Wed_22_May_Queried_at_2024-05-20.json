@@ -1,0 +1,10 @@
+{
+    "DaysFromMain": 2,
+    "Date": "Wed_22_May",
+    "dayCondition": "60% Periods of rain",
+    "nightCondition": "60% Periods of rain or snow",
+    "nightTemp": 0,
+    "dayTemp": 12,
+    "dateQueried": "2024-05-20",
+    "timeQueried": "10h10m"
+}
