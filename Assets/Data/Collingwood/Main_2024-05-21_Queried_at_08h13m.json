@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-21",
+    "timeQueried": "08h13m",
+    "observedLocation": "Egbert 4:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.2,
+    "tendency": "Rising",
+    "temperature": 15.6,
+    "dewPoint": 14.7,
+    "humidity": 94.0,
+    "windDirection": "N",
+    "windSpeed": 10
+}
