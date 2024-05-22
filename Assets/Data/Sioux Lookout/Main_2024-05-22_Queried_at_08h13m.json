@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-22",
+    "timeQueried": "08h13m",
+    "observedLocation": "Sioux Lookout Airport 3:00 AM CDT",
+    "condition": "Rain",
+    "pressure": 99.8,
+    "tendency": "Falling",
+    "temperature": 10.3,
+    "dewPoint": 10.1,
+    "humidity": 99.0,
+    "windDirection": "NE",
+    "windSpeed": 14
+}
