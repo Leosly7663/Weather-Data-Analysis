@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 0,
     "Date": "Wed_22_May",
-    "dayCondition": "Rain at times heavy mixed with snow",
-    "nightCondition": "Rain mixed with snow",
+    "dayCondition": "Rain at times heavy",
+    "nightCondition": "Rain or snow",
     "nightTemp": 1,
-    "dayTemp": 6,
+    "dayTemp": 4,
     "dateQueried": "2024-05-22",
-    "timeQueried": "15h10m"
+    "timeQueried": "16h12m"
 }

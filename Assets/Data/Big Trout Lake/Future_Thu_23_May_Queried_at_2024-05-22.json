@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Thu_23_May",
     "dayCondition": "Snow mixed with rain",
-    "nightCondition": "Cloudy periods",
-    "nightTemp": 0,
+    "nightCondition": "Cloudy",
+    "nightTemp": -1,
     "dayTemp": 5,
     "dateQueried": "2024-05-22",
-    "timeQueried": "15h10m"
+    "timeQueried": "16h12m"
 }
