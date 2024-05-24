@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-24",
+    "timeQueried": "08h12m",
+    "observedLocation": "Oshawa Executive Airport 4:00 AM EDT",
+    "condition": "Clear",
+    "pressure": 101.0,
+    "tendency": "not recorded at source",
+    "temperature": 14.7,
+    "dewPoint": 8.0,
+    "humidity": 64.0,
+    "windDirection": "W",
+    "windSpeed": 8
+}
