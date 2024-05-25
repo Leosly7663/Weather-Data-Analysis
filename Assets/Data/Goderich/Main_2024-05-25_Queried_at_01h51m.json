@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-25",
+    "timeQueried": "01h51m",
+    "observedLocation": "Goderich 9:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.1,
+    "tendency": "Falling",
+    "temperature": 15.0,
+    "dewPoint": 10.1,
+    "humidity": 73.0,
+    "windDirection": "E",
+    "windSpeed": 10
+}
