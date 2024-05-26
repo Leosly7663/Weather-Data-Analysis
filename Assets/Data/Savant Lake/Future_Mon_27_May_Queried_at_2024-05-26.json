@@ -1,0 +1,10 @@
+{
+    "DaysFromMain": 1,
+    "Date": "Mon_27_May",
+    "dayCondition": "Increasing cloudiness",
+    "nightCondition": "Cloudy periods",
+    "nightTemp": 7,
+    "dayTemp": 20,
+    "dateQueried": "2024-05-26",
+    "timeQueried": "10h10m"
+}
