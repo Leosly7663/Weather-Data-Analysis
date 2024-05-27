@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-05-27",
+    "timeQueried": "03h12m",
+    "observedLocation": "North Bay Airport 11:00 PM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.1,
+    "tendency": "not recorded at source",
+    "temperature": 16.4,
+    "dewPoint": 9.6,
+    "humidity": 64.0,
+    "windDirection": "E",
+    "windSpeed": 17
+}
