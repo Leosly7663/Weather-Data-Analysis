@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 0,
     "Date": "Wed_29_May",
-    "dayCondition": "60% Chance of showers",
+    "dayCondition": "70% Chance of showers",
     "nightCondition": "Clear",
     "nightTemp": 4,
-    "dayTemp": 19,
+    "dayTemp": 20,
     "dateQueried": "2024-05-29",
-    "timeQueried": "14h09m"
+    "timeQueried": "15h10m"
 }
