@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-02",
+    "timeQueried": "20h09m",
+    "observedLocation": "Muskoka Airport 4:00 PM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.5,
+    "tendency": "not recorded at source",
+    "temperature": 18.3,
+    "dewPoint": 13.4,
+    "humidity": 73.0,
+    "windDirection": "ESE",
+    "windSpeed": 4
+}
