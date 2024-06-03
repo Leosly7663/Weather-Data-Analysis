@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-03",
+    "timeQueried": "19h09m",
+    "observedLocation": "Nagagami 3:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.0,
+    "tendency": "Falling",
+    "temperature": 22.6,
+    "dewPoint": 2.9,
+    "humidity": 28.0,
+    "windDirection": "SSW",
+    "windSpeed": 8
+}
