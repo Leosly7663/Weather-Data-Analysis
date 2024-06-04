@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-04",
+    "timeQueried": "01h55m",
+    "observedLocation": "Ridgetown 9:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.4,
+    "tendency": "Falling",
+    "temperature": 17.7,
+    "dewPoint": 16.4,
+    "humidity": 92.0,
+    "windDirection": "SE",
+    "windSpeed": 8
+}
