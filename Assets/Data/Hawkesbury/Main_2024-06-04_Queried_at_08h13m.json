@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-04",
+    "timeQueried": "08h13m",
+    "observedLocation": "Montr\u00e9al-Mirabel Int'l Airport 4:00 AM EDT",
+    "condition": "Clear",
+    "pressure": 101.5,
+    "tendency": "Rising",
+    "temperature": 15.8,
+    "dewPoint": 10.6,
+    "humidity": 71.0,
+    "windDirection": "NE",
+    "windSpeed": 4
+}
