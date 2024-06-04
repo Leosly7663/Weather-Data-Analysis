@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-04",
+    "timeQueried": "15h10m",
+    "observedLocation": "Kenora Airport 10:00 AM CDT",
+    "condition": "Thunderstorm with heavy rainshowers",
+    "pressure": 100.0,
+    "tendency": "Falling",
+    "temperature": 16.3,
+    "dewPoint": 15.6,
+    "humidity": 96.0,
+    "windDirection": "E",
+    "windSpeed": 12
+}
