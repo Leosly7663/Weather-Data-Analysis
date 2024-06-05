@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-05",
+    "timeQueried": "16h12m",
+    "observedLocation": "Ear Falls 11:00 AM CDT",
+    "condition": "Not observed",
+    "pressure": 99.2,
+    "tendency": "Falling",
+    "temperature": 18.9,
+    "dewPoint": 13.6,
+    "humidity": 71.0,
+    "windDirection": "S",
+    "windSpeed": 2
+}
