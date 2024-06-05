@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-05",
+    "timeQueried": "23h11m",
+    "observedLocation": "Sault Ste. Marie Airport 7:00 PM EDT",
+    "condition": "Mostly Cloudy",
+    "pressure": 99.8,
+    "tendency": "Falling",
+    "temperature": 14.0,
+    "dewPoint": 14.0,
+    "humidity": 100.0,
+    "windDirection": "NNW",
+    "windSpeed": 14
+}
