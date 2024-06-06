@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 2,
     "Date": "Sat_8_Jun",
-    "dayCondition": "40% Chance of showers",
-    "nightCondition": "40% Chance of showers",
-    "nightTemp": 11,
-    "dayTemp": 15,
+    "dayCondition": "30% Chance of showers",
+    "nightCondition": "Cloudy",
+    "nightTemp": 10,
+    "dayTemp": 18,
     "dateQueried": "2024-06-06",
-    "timeQueried": "15h11m"
+    "timeQueried": "16h12m"
 }
