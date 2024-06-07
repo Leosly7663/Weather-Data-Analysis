@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-07",
+    "timeQueried": "11h09m",
+    "observedLocation": "Fort Severn Airport 7:00 AM EDT",
+    "condition": "Haze",
+    "pressure": 99.9,
+    "tendency": "not recorded at source",
+    "temperature": 3.4,
+    "dewPoint": null,
+    "humidity": null,
+    "windDirection": "km",
+    "windSpeed": 3
+}
