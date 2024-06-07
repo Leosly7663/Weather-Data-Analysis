@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-07",
+    "timeQueried": "13h13m",
+    "observedLocation": "Region of Waterloo Int'l Airport 9:04 AM EDT",
+    "condition": "Cloudy",
+    "pressure": 100.2,
+    "tendency": "not recorded at source",
+    "temperature": 15.1,
+    "dewPoint": 12.1,
+    "humidity": 82.0,
+    "windDirection": "WSW",
+    "windSpeed": 22
+}
