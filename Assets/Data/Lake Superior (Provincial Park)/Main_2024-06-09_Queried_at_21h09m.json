@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-09",
+    "timeQueried": "21h09m",
+    "observedLocation": "Lake Superior Provincial Park 5:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.0,
+    "tendency": "Rising",
+    "temperature": 9.3,
+    "dewPoint": 6.8,
+    "humidity": 85.0,
+    "windDirection": "N",
+    "windSpeed": 13
+}
