@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-09",
+    "timeQueried": "10h09m",
+    "observedLocation": "Kapuskasing Airport 6:00 AM EDT",
+    "condition": "Light Drizzle",
+    "pressure": 100.1,
+    "tendency": "Falling",
+    "temperature": 10.0,
+    "dewPoint": 9.3,
+    "humidity": 95.0,
+    "windDirection": "WNW",
+    "windSpeed": 11
+}
