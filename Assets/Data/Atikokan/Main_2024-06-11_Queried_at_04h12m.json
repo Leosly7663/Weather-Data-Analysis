@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-11",
+    "timeQueried": "04h12m",
+    "observedLocation": "Atikokan 11:00 PM EST",
+    "condition": "Not observed",
+    "pressure": 101.4,
+    "tendency": "Falling",
+    "temperature": 10.0,
+    "dewPoint": 7.1,
+    "humidity": 82.0,
+    "windDirection": "calm",
+    "windSpeed": 10
+}
