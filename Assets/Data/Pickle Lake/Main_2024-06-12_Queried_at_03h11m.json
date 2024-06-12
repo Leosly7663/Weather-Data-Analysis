@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-12",
+    "timeQueried": "03h11m",
+    "observedLocation": "Pickle Lake Airport 10:05 PM EST",
+    "condition": "Light Rain",
+    "pressure": 100.0,
+    "tendency": "not recorded at source",
+    "temperature": 13.0,
+    "dewPoint": 12.4,
+    "humidity": 96.0,
+    "windDirection": "SSW",
+    "windSpeed": 21
+}
