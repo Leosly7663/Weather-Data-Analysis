@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-12",
+    "timeQueried": "00h44m",
+    "observedLocation": "Ottawa Macdonald-Cartier Int'l Airport 8:00 PM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.6,
+    "tendency": "Rising",
+    "temperature": 15.2,
+    "dewPoint": 11.4,
+    "humidity": 78.0,
+    "windDirection": "WSW",
+    "windSpeed": 3
+}
