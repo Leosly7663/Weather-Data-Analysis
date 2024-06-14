@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-14",
+    "timeQueried": "00h43m",
+    "observedLocation": "Fort Frances 7:00 PM CDT",
+    "condition": "Not observed",
+    "pressure": 101.3,
+    "tendency": "Rising",
+    "temperature": 19.0,
+    "dewPoint": 10.0,
+    "humidity": 56.0,
+    "windDirection": "NNE",
+    "windSpeed": 14
+}
