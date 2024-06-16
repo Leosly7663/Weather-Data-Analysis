@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-16",
+    "timeQueried": "08h11m",
+    "observedLocation": "Lake Simcoe Regional Airport 4:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 102.3,
+    "tendency": "Rising",
+    "temperature": 7.2,
+    "dewPoint": 6.2,
+    "humidity": 93.0,
+    "windDirection": "ENE",
+    "windSpeed": 6
+}
