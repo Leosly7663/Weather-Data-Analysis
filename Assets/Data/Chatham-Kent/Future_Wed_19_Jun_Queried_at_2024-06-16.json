@@ -2,9 +2,9 @@
     "DaysFromMain": 3,
     "Date": "Wed_19_Jun",
     "dayCondition": "Cloudy",
-    "nightCondition": "Cloudy",
+    "nightCondition": "Cloudy periods",
     "nightTemp": 23,
-    "dayTemp": 32,
+    "dayTemp": 34,
     "dateQueried": "2024-06-16",
-    "timeQueried": "14h08m"
+    "timeQueried": "15h10m"
 }
