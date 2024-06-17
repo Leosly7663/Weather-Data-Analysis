@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Tue_18_Jun",
     "dayCondition": "Showers at times heavy or thunderstorms",
-    "nightCondition": "Showers",
-    "nightTemp": 14,
+    "nightCondition": "60% Chance of showers",
+    "nightTemp": 13,
     "dayTemp": 25,
     "dateQueried": "2024-06-17",
-    "timeQueried": "15h11m"
+    "timeQueried": "16h12m"
 }
