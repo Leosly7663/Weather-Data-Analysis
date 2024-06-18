@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-18",
+    "timeQueried": "22h09m",
+    "observedLocation": "Mono Centre 6:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 102.1,
+    "tendency": "Falling",
+    "temperature": 23.8,
+    "dewPoint": 20.0,
+    "humidity": 80.0,
+    "windDirection": "SW",
+    "windSpeed": 6
+}
