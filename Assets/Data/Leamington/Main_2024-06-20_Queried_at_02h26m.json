@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-20",
+    "timeQueried": "02h26m",
+    "observedLocation": "Harrow AAFC 10:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 102.4,
+    "tendency": "Rising",
+    "temperature": 25.8,
+    "dewPoint": 19.1,
+    "humidity": 67.0,
+    "windDirection": "SE",
+    "windSpeed": 3
+}
