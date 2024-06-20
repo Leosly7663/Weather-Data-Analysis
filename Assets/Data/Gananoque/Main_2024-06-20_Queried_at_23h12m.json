@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-20",
+    "timeQueried": "23h12m",
+    "observedLocation": "Grenadier Island 7:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 102.3,
+    "tendency": "Rising",
+    "temperature": 20.8,
+    "dewPoint": 20.2,
+    "humidity": 96.0,
+    "windDirection": "calm",
+    "windSpeed": null
+}
