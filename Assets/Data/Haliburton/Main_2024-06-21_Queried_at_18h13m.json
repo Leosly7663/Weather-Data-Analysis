@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-21",
+    "timeQueried": "18h13m",
+    "observedLocation": "Bancroft 2:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 102.4,
+    "tendency": "Falling",
+    "temperature": 18.7,
+    "dewPoint": 15.5,
+    "humidity": 82.0,
+    "windDirection": "NE",
+    "windSpeed": 6
+}
