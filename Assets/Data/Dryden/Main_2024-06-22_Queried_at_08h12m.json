@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-22",
+    "timeQueried": "08h12m",
+    "observedLocation": "Dryden Airport 3:00 AM CDT",
+    "condition": "Cloudy",
+    "pressure": 101.8,
+    "tendency": "not recorded at source",
+    "temperature": 17.7,
+    "dewPoint": 11.1,
+    "humidity": 65.0,
+    "windDirection": "calm",
+    "windSpeed": null
+}
