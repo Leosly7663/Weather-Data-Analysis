@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-22",
+    "timeQueried": "16h12m",
+    "observedLocation": "Toronto Downtown 12:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.6,
+    "tendency": "Falling",
+    "temperature": 22.6,
+    "dewPoint": 18.3,
+    "humidity": 77.0,
+    "windDirection": ":",
+    "windSpeed": 29
+}
