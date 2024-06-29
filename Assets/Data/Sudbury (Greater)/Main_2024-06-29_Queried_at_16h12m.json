@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-06-29",
+    "timeQueried": "16h12m",
+    "observedLocation": "Greater Sudbury Airport 12:00 PM EDT",
+    "condition": "Mist",
+    "pressure": 100.7,
+    "tendency": "Falling",
+    "temperature": 16.8,
+    "dewPoint": 16.6,
+    "humidity": 99.0,
+    "windDirection": "SSW",
+    "windSpeed": 21
+}
