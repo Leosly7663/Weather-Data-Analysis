@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-01",
+    "timeQueried": "15h11m",
+    "observedLocation": "Beatrice 11:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 102.5,
+    "tendency": "Rising",
+    "temperature": 20.4,
+    "dewPoint": 11.2,
+    "humidity": 56.0,
+    "windDirection": "WSW",
+    "windSpeed": 9
+}
