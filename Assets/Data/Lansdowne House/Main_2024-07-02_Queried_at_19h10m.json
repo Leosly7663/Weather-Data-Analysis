@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-02",
+    "timeQueried": "19h10m",
+    "observedLocation": "Lansdowne House Airport 3:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 100.4,
+    "tendency": "not recorded at source",
+    "temperature": 13.4,
+    "dewPoint": 12.0,
+    "humidity": 91.0,
+    "windDirection": "C",
+    "windSpeed": null
+}
