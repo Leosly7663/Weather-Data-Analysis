@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-04",
+    "timeQueried": "15h10m",
+    "observedLocation": "Toronto Pearson Int'l Airport 11:00 AM EDT",
+    "condition": "Mostly Cloudy",
+    "pressure": 101.2,
+    "tendency": "Falling",
+    "temperature": 27.5,
+    "dewPoint": 18.5,
+    "humidity": 58.0,
+    "windDirection": "WSW",
+    "windSpeed": 11
+}
