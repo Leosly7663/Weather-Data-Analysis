@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-09",
+    "timeQueried": "21h10m",
+    "observedLocation": "Mono Centre 5:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.3,
+    "tendency": "Falling",
+    "temperature": 26.4,
+    "dewPoint": 17.4,
+    "humidity": 58.0,
+    "windDirection": "WNW",
+    "windSpeed": 14
+}
