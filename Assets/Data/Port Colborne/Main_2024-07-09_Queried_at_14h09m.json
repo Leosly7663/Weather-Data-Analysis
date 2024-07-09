@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-09",
+    "timeQueried": "14h09m",
+    "observedLocation": "Port Colborne 10:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.5,
+    "tendency": "Rising",
+    "temperature": 23.8,
+    "dewPoint": 21.0,
+    "humidity": 84.0,
+    "windDirection": "SW",
+    "windSpeed": 3
+}
