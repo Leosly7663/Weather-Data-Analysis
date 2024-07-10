@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-10",
+    "timeQueried": "04h14m",
+    "observedLocation": "Chatham-Kent 12:00 AM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.0,
+    "tendency": "not recorded at source",
+    "temperature": 23.5,
+    "dewPoint": 21.8,
+    "humidity": 90.0,
+    "windDirection": "ENE",
+    "windSpeed": 11
+}
