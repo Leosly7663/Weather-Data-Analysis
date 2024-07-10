@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-10",
+    "timeQueried": "14h10m",
+    "observedLocation": "Kingston Airport 10:00 AM EDT",
+    "condition": "Thunderstorm with light rainshowers",
+    "pressure": 100.9,
+    "tendency": "Falling",
+    "temperature": 21.3,
+    "dewPoint": 21.3,
+    "humidity": 100.0,
+    "windDirection": "NNE",
+    "windSpeed": 15
+}
