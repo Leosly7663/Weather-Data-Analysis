@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-11",
+    "timeQueried": "03h13m",
+    "observedLocation": "St. Catharines / Niagara District Airport 11:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 100.6,
+    "tendency": "not recorded at source",
+    "temperature": 21.5,
+    "dewPoint": 21.4,
+    "humidity": 99.0,
+    "windDirection": "S",
+    "windSpeed": 6
+}
