@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-16",
+    "timeQueried": "22h10m",
+    "observedLocation": "London Int'l Airport 6:00 PM EDT",
+    "condition": "Mostly Cloudy",
+    "pressure": 100.8,
+    "tendency": "Falling",
+    "temperature": 23.2,
+    "dewPoint": 22.8,
+    "humidity": 98.0,
+    "windDirection": "WSW",
+    "windSpeed": 11
+}
