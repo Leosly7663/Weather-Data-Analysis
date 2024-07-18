@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-18",
+    "timeQueried": "09h11m",
+    "observedLocation": "Hamilton 5:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.5,
+    "tendency": "Rising",
+    "temperature": 16.0,
+    "dewPoint": 12.9,
+    "humidity": 82.0,
+    "windDirection": "WNW",
+    "windSpeed": 7
+}
