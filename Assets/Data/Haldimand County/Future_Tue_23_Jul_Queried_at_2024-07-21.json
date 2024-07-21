@@ -2,9 +2,9 @@
     "DaysFromMain": 2,
     "Date": "Tue_23_Jul",
     "dayCondition": "30% Chance of showers",
-    "nightCondition": "Cloudy",
-    "nightTemp": 16,
-    "dayTemp": 23,
+    "nightCondition": "Cloudy periods",
+    "nightTemp": 19,
+    "dayTemp": 27,
     "dateQueried": "2024-07-21",
-    "timeQueried": "14h09m"
+    "timeQueried": "15h11m"
 }
