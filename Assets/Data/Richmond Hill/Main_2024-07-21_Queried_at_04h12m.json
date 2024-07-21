@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-21",
+    "timeQueried": "04h12m",
+    "observedLocation": "King City North 12:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.8,
+    "tendency": "Rising",
+    "temperature": 18.9,
+    "dewPoint": 14.3,
+    "humidity": 75.0,
+    "windDirection": "NW",
+    "windSpeed": 3
+}
