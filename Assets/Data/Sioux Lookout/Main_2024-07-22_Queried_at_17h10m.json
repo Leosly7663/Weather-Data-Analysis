@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-22",
+    "timeQueried": "17h10m",
+    "observedLocation": "Sioux Lookout 12:00 PM CDT",
+    "condition": "Not observed",
+    "pressure": 101.8,
+    "tendency": "Rising",
+    "temperature": 18.2,
+    "dewPoint": 16.5,
+    "humidity": 90.0,
+    "windDirection": "NE",
+    "windSpeed": 6
+}
