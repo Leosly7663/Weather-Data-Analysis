@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-22",
+    "timeQueried": "23h10m",
+    "observedLocation": "Sarnia Chris Hadfield Airport 7:00 PM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.6,
+    "tendency": "not recorded at source",
+    "temperature": 21.3,
+    "dewPoint": 15.7,
+    "humidity": 70.0,
+    "windDirection": "ENE",
+    "windSpeed": 5
+}
