@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 5,
     "Date": "Sat_27_Jul",
-    "dayCondition": "Sunny",
-    "nightCondition": "Clear",
+    "dayCondition": "A mix of sun and cloud",
+    "nightCondition": "Cloudy periods",
     "nightTemp": 14,
-    "dayTemp": 27,
+    "dayTemp": 25,
     "dateQueried": "2024-07-22",
-    "timeQueried": "15h12m"
+    "timeQueried": "16h13m"
 }
