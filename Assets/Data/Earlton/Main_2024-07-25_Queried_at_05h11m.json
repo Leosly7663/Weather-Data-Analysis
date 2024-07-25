@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-25",
+    "timeQueried": "05h11m",
+    "observedLocation": "Earlton 1:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.6,
+    "tendency": "Rising",
+    "temperature": 13.7,
+    "dewPoint": 13.2,
+    "humidity": 96.0,
+    "windDirection": "NW",
+    "windSpeed": 21
+}
