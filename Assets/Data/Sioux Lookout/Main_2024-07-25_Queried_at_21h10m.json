@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-25",
+    "timeQueried": "21h10m",
+    "observedLocation": "Sioux Lookout 4:00 PM CDT",
+    "condition": "Not observed",
+    "pressure": 102.1,
+    "tendency": "Falling",
+    "temperature": 26.7,
+    "dewPoint": 12.0,
+    "humidity": 40.0,
+    "windDirection": "S",
+    "windSpeed": 15
+}
