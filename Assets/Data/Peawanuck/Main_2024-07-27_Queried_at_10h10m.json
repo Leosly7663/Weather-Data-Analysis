@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-27",
+    "timeQueried": "10h10m",
+    "observedLocation": "Peawanuck Airport 5:00 AM CDT",
+    "condition": "Cloudy",
+    "pressure": 99.8,
+    "tendency": "not recorded at source",
+    "temperature": 23.8,
+    "dewPoint": 20.2,
+    "humidity": 80.0,
+    "windDirection": "W",
+    "windSpeed": 15
+}
