@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-07-29",
+    "timeQueried": "10h12m",
+    "observedLocation": "Ogoki Post 5:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 100.8,
+    "tendency": "Rising",
+    "temperature": 17.6,
+    "dewPoint": 17.4,
+    "humidity": 99.0,
+    "windDirection": "SSW",
+    "windSpeed": 5
+}
