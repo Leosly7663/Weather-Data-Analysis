@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-02",
+    "timeQueried": "05h12m",
+    "observedLocation": "Lagoon City 1:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.2,
+    "tendency": "Falling",
+    "temperature": 23.1,
+    "dewPoint": 19.9,
+    "humidity": 82.0,
+    "windDirection": "E",
+    "windSpeed": 4
+}
