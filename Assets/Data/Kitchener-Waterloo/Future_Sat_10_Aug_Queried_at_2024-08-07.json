@@ -2,9 +2,9 @@
     "DaysFromMain": 3,
     "Date": "Sat_10_Aug",
     "dayCondition": "Cloudy",
-    "nightCondition": "30% Chance of showers",
-    "nightTemp": 14,
-    "dayTemp": 21,
+    "nightCondition": "Cloudy",
+    "nightTemp": 12,
+    "dayTemp": 20,
     "dateQueried": "2024-08-07",
-    "timeQueried": "14h10m"
+    "timeQueried": "15h11m"
 }
