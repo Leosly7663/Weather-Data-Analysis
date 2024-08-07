@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-07",
+    "timeQueried": "02h03m",
+    "observedLocation": "Garrison Petawawa 10:00 PM EDT",
+    "condition": "Clear",
+    "pressure": 101.7,
+    "tendency": "Falling",
+    "temperature": 14.6,
+    "dewPoint": 12.6,
+    "humidity": 88.0,
+    "windDirection": "WNW",
+    "windSpeed": 8
+}
