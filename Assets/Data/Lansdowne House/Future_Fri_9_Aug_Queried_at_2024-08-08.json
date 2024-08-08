@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Fri_9_Aug",
     "dayCondition": "Rain",
-    "nightCondition": "60% Chance of showers",
-    "nightTemp": 10,
+    "nightCondition": "Showers",
+    "nightTemp": 8,
     "dayTemp": 16,
     "dateQueried": "2024-08-08",
-    "timeQueried": "15h11m"
+    "timeQueried": "16h12m"
 }
