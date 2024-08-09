@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-09",
+    "timeQueried": "03h12m",
+    "observedLocation": "Parry Sound Harbour 11:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.2,
+    "tendency": "Falling",
+    "temperature": 20.6,
+    "dewPoint": 18.7,
+    "humidity": 88.0,
+    "windDirection": ":",
+    "windSpeed": 27
+}
