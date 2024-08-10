@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-10",
+    "timeQueried": "09h10m",
+    "observedLocation": "Peterborough Municipal Airport 5:00 AM EDT",
+    "condition": "Clear",
+    "pressure": 101.2,
+    "tendency": "not recorded at source",
+    "temperature": 12.1,
+    "dewPoint": 11.2,
+    "humidity": 94.0,
+    "windDirection": "WSW",
+    "windSpeed": 4
+}
