@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-11",
+    "timeQueried": "17h09m",
+    "observedLocation": "Uxbridge 1:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.5,
+    "tendency": "Falling",
+    "temperature": 14.3,
+    "dewPoint": 13.4,
+    "humidity": 94.0,
+    "windDirection": "W",
+    "windSpeed": 11
+}
