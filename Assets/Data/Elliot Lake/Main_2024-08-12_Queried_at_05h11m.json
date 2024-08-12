@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-12",
+    "timeQueried": "05h11m",
+    "observedLocation": "Gore Bay Climate 1:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.6,
+    "tendency": "Rising",
+    "temperature": 16.2,
+    "dewPoint": 12.2,
+    "humidity": 77.0,
+    "windDirection": "WNW",
+    "windSpeed": 20
+}
