@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-12",
+    "timeQueried": "10h11m",
+    "observedLocation": "Delhi 6:00 AM EDT",
+    "condition": "Not observed",
+    "pressure": 101.7,
+    "tendency": "Rising",
+    "temperature": 12.2,
+    "dewPoint": 11.6,
+    "humidity": 96.0,
+    "windDirection": "WSW",
+    "windSpeed": 3
+}
