@@ -2,9 +2,9 @@
     "DaysFromMain": 5,
     "Date": "Sun_18_Aug",
     "dayCondition": "60% Chance of showers",
-    "nightCondition": "60% Chance of showers",
-    "nightTemp": 18,
+    "nightCondition": "40% Chance of showers",
+    "nightTemp": 17,
     "dayTemp": 24,
     "dateQueried": "2024-08-13",
-    "timeQueried": "14h10m"
+    "timeQueried": "15h11m"
 }
