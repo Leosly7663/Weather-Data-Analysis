@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-14",
+    "timeQueried": "21h09m",
+    "observedLocation": "Guelph Turfgrass Institute 5:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 102.1,
+    "tendency": "Falling",
+    "temperature": 25.6,
+    "dewPoint": 10.5,
+    "humidity": 39.0,
+    "windDirection": "NW",
+    "windSpeed": 11
+}
