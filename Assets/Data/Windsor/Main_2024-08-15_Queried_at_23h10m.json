@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-15",
+    "timeQueried": "23h10m",
+    "observedLocation": "Windsor Airport 7:00 PM EDT",
+    "condition": "Cloudy",
+    "pressure": 101.7,
+    "tendency": "not recorded at source",
+    "temperature": 23.3,
+    "dewPoint": 18.1,
+    "humidity": 73.0,
+    "windDirection": "SE",
+    "windSpeed": 11
+}
