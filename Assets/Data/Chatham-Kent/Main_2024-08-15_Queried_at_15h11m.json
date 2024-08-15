@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-15",
+    "timeQueried": "15h11m",
+    "observedLocation": "Chatham-Kent 11:00 AM EDT",
+    "condition": "Sunny",
+    "pressure": 102.0,
+    "tendency": "not recorded at source",
+    "temperature": 24.2,
+    "dewPoint": 17.1,
+    "humidity": 65.0,
+    "windDirection": "SSE",
+    "windSpeed": 11
+}
