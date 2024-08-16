@@ -2,9 +2,9 @@
     "DaysFromMain": 3,
     "Date": "Mon_19_Aug",
     "dayCondition": "Sunny",
-    "nightCondition": "Clear",
-    "nightTemp": 12,
-    "dayTemp": 21,
+    "nightCondition": "Cloudy periods",
+    "nightTemp": 13,
+    "dayTemp": 23,
     "dateQueried": "2024-08-16",
-    "timeQueried": "15h10m"
+    "timeQueried": "16h14m"
 }
