@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-16",
+    "timeQueried": "09h12m",
+    "observedLocation": "Upsala 4:00 AM CDT",
+    "condition": "Not observed",
+    "pressure": 100.8,
+    "tendency": "Falling",
+    "temperature": 16.5,
+    "dewPoint": 16.4,
+    "humidity": 99.0,
+    "windDirection": "ESE",
+    "windSpeed": 3
+}
