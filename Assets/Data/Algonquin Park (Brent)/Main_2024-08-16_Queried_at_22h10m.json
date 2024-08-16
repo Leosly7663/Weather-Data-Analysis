@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-16",
+    "timeQueried": "22h10m",
+    "observedLocation": "Algonquin Park East Gate 6:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 101.4,
+    "tendency": "Falling",
+    "temperature": 25.0,
+    "dewPoint": 14.7,
+    "humidity": 53.0,
+    "windDirection": "SE",
+    "windSpeed": 4
+}
