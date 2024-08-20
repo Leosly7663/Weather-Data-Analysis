@@ -1,0 +1,13 @@
+{
+    "dateQueried": "2024-08-20",
+    "timeQueried": "18h14m",
+    "observedLocation": "Tobermory 2:00 PM EDT",
+    "condition": "Not observed",
+    "pressure": 102.3,
+    "tendency": "Falling",
+    "temperature": 17.4,
+    "dewPoint": 4.5,
+    "humidity": 42.0,
+    "windDirection": "NNW",
+    "windSpeed": 18
+}
