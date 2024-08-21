@@ -1,0 +1,1193 @@
+Internet connection successful
+Connected to weather source
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alexandria/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Brent)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Brent)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Brent)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Brent)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Brent)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Brent)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Brent)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Lake of Two Rivers)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Lake of Two Rivers)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Lake of Two Rivers)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Lake of Two Rivers)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Lake of Two Rivers)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Lake of Two Rivers)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Algonquin Park (Lake of Two Rivers)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Alliston/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alliston/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alliston/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alliston/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alliston/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alliston/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Alliston/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Apsley/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Apsley/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Apsley/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Apsley/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Apsley/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Apsley/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Apsley/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Armstrong/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Atikokan/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Attawapiskat/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Bancroft/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bancroft/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bancroft/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bancroft/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bancroft/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bancroft/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bancroft/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Barrie/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Barrie/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Barrie/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Barrie/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Barrie/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Barrie/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Barrie/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name="Assets/Data/Barry's Bay/Main_2024-08-21_Queried_at_19h10m.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Barry's Bay/Future_Wed_21_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Barry's Bay/Future_Thu_22_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Barry's Bay/Future_Fri_23_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Barry's Bay/Future_Sat_24_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Barry's Bay/Future_Sun_25_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Barry's Bay/Future_Mon_26_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Belleville/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Belleville/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Belleville/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Belleville/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Belleville/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Belleville/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Belleville/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Big Trout Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Blind River/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Blind River/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Bracebridge/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bracebridge/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bracebridge/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bracebridge/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bracebridge/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bracebridge/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Bracebridge/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Brampton/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brampton/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brampton/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brampton/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brampton/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brampton/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brampton/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Brantford/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brantford/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brantford/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brantford/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brantford/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brantford/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brantford/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Brockville/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brockville/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brockville/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brockville/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brockville/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brockville/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Brockville/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name="Assets/Data/Burk's Falls/Main_2024-08-21_Queried_at_19h10m.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Burk's Falls/Future_Wed_21_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Burk's Falls/Future_Thu_22_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Burk's Falls/Future_Fri_23_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Burk's Falls/Future_Sat_24_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Burk's Falls/Future_Sun_25_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name="Assets/Data/Burk's Falls/Future_Mon_26_Aug_Queried_at_2024-08-21.json" mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Burlington/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Burlington/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Burlington/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Burlington/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Burlington/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Burlington/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Burlington/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Caledon/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Caledon/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Caledon/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Caledon/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Caledon/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Caledon/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Caledon/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Cambridge/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cambridge/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cambridge/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cambridge/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cambridge/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cambridge/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cambridge/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chapleau/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Chatham-Kent/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chatham-Kent/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chatham-Kent/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chatham-Kent/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chatham-Kent/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chatham-Kent/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Chatham-Kent/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Cobourg/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cobourg/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cobourg/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cobourg/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cobourg/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cobourg/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cobourg/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cochrane/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Collingwood/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Collingwood/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Collingwood/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Collingwood/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Collingwood/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Collingwood/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Collingwood/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Cornwall/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cornwall/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cornwall/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cornwall/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cornwall/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cornwall/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Cornwall/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Deep River/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Deep River/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Deep River/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Deep River/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Deep River/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Deep River/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Deep River/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Dorion/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dorion/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Dryden/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dryden/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Dunchurch/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dunchurch/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dunchurch/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dunchurch/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dunchurch/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dunchurch/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dunchurch/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Dundalk/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dundalk/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dundalk/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dundalk/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dundalk/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dundalk/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Dundalk/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ear Falls/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Earlton/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Earlton/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Elliot Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Albany/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Fort Erie/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Erie/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Erie/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Erie/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Erie/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Erie/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Erie/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Frances/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Fort Severn/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gananoque/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gananoque/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gananoque/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gananoque/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gananoque/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gananoque/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gananoque/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Goderich/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Goderich/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Goderich/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Goderich/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Goderich/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Goderich/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Goderich/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gogama/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gogama/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gore Bay/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gravenhurst/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gravenhurst/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gravenhurst/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gravenhurst/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gravenhurst/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gravenhurst/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gravenhurst/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greater Napanee/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Napanee/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Napanee/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Napanee/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Napanee/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Napanee/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Napanee/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greater Sudbury/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Beardmore)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Geraldton)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Greenstone (Nakina)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Guelph/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Guelph/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Guelph/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Guelph/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Guelph/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Guelph/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Guelph/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Gull Bay/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Haldimand County/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haldimand County/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haldimand County/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haldimand County/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haldimand County/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haldimand County/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haldimand County/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Haliburton/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haliburton/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haliburton/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haliburton/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haliburton/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haliburton/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Haliburton/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Halton Hills/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Halton Hills/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Halton Hills/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Halton Hills/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Halton Hills/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Halton Hills/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Halton Hills/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Hamilton/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hamilton/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hamilton/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hamilton/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hamilton/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hamilton/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hamilton/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Hawkesbury/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hawkesbury/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hawkesbury/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hawkesbury/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hawkesbury/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hawkesbury/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hawkesbury/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Hearst/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hearst/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Hornepayne/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Huntsville/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Huntsville/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Huntsville/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Huntsville/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Huntsville/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Huntsville/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Huntsville/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ignace/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ignace/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kakabeka Falls/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kaladar/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kaladar/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kaladar/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kaladar/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kaladar/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kaladar/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kaladar/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kapuskasing/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Fenelon Falls)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Fenelon Falls)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Fenelon Falls)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Fenelon Falls)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Fenelon Falls)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Fenelon Falls)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Fenelon Falls)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Lindsay)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Lindsay)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Lindsay)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Lindsay)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Lindsay)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Lindsay)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kawartha Lakes (Lindsay)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kemptville/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kemptville/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kemptville/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kemptville/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kemptville/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kemptville/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kemptville/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kenora/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kenora/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Killarney/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Killarney/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kincardine/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kincardine/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kincardine/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kincardine/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kincardine/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kincardine/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kincardine/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kingston/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kingston/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kingston/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kingston/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kingston/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kingston/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kingston/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kirkland Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Kitchener-Waterloo/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kitchener-Waterloo/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kitchener-Waterloo/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kitchener-Waterloo/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kitchener-Waterloo/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kitchener-Waterloo/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Kitchener-Waterloo/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lake Superior (Provincial Park)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Lambton Shores/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lambton Shores/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lambton Shores/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lambton Shores/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lambton Shores/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lambton Shores/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lambton Shores/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lansdowne House/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Leamington/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Leamington/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Leamington/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Leamington/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Leamington/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Leamington/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Leamington/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Lincoln/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lincoln/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lincoln/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lincoln/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lincoln/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lincoln/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Lincoln/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/London/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/London/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/London/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/London/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/London/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/London/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/London/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Marathon/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Marathon/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Markham/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Markham/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Markham/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Markham/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Markham/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Markham/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Markham/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Midland/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Midland/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Midland/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Midland/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Midland/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Midland/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Midland/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mine Centre/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Mississauga/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mississauga/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mississauga/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mississauga/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mississauga/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mississauga/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mississauga/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Montreal River Harbour/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Moosonee/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Morrisburg/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Morrisburg/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Morrisburg/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Morrisburg/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Morrisburg/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Morrisburg/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Morrisburg/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Mount Forest/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mount Forest/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mount Forest/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mount Forest/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mount Forest/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mount Forest/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Mount Forest/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Muskoka/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Muskoka/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Muskoka/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Muskoka/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Muskoka/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Muskoka/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Muskoka/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/New Tecumseth/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/New Tecumseth/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/New Tecumseth/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/New Tecumseth/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/New Tecumseth/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/New Tecumseth/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/New Tecumseth/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Newmarket/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Newmarket/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Newmarket/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Newmarket/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Newmarket/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Newmarket/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Newmarket/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Niagara Falls/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Niagara Falls/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Niagara Falls/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Niagara Falls/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Niagara Falls/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Niagara Falls/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Niagara Falls/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Nipigon/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Norfolk/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Norfolk/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Norfolk/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Norfolk/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Norfolk/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Norfolk/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Norfolk/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/North Bay/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Bay/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/North Perth/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Perth/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Perth/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Perth/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Perth/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Perth/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/North Perth/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Oakville/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oakville/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oakville/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oakville/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oakville/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oakville/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oakville/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ogoki/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Orangeville/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orangeville/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orangeville/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orangeville/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orangeville/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orangeville/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orangeville/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Orillia/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orillia/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orillia/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orillia/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orillia/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orillia/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Orillia/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Oshawa/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oshawa/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oshawa/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oshawa/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oshawa/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oshawa/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oshawa/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Kanata - Orléans)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Kanata - Orléans)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Kanata - Orléans)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Kanata - Orléans)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Kanata - Orléans)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Kanata - Orléans)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Kanata - Orléans)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Richmond - Metcalfe)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Richmond - Metcalfe)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Richmond - Metcalfe)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Richmond - Metcalfe)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Richmond - Metcalfe)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Richmond - Metcalfe)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Ottawa (Richmond - Metcalfe)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Owen Sound/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Owen Sound/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Owen Sound/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Owen Sound/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Owen Sound/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Owen Sound/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Owen Sound/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Oxtongue Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oxtongue Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oxtongue Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oxtongue Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oxtongue Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oxtongue Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Oxtongue Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Parry Sound/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Parry Sound/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Parry Sound/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Parry Sound/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Parry Sound/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Parry Sound/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Parry Sound/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peawanuck/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Pembroke/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pembroke/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pembroke/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pembroke/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pembroke/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pembroke/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pembroke/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Petawawa/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Petawawa/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Petawawa/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Petawawa/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Petawawa/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Petawawa/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Petawawa/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Peterborough/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peterborough/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peterborough/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peterborough/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peterborough/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peterborough/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Peterborough/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Pickering/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickering/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickering/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickering/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickering/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickering/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickering/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pickle Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Pikangikum/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Port Carling/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Carling/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Carling/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Carling/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Carling/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Carling/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Carling/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Port Colborne/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Colborne/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Colborne/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Colborne/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Colborne/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Colborne/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Colborne/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Port Elgin/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Elgin/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Elgin/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Elgin/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Elgin/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Elgin/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Elgin/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Port Perry/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Perry/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Perry/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Perry/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Perry/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Perry/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Port Perry/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Prince Edward (Picton)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Prince Edward (Picton)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Prince Edward (Picton)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Prince Edward (Picton)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Prince Edward (Picton)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Prince Edward (Picton)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Prince Edward (Picton)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Quinte West/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Quinte West/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Quinte West/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Quinte West/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Quinte West/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Quinte West/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Quinte West/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Red Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Renfrew/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Renfrew/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Renfrew/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Renfrew/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Renfrew/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Renfrew/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Renfrew/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Richmond Hill/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Richmond Hill/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Richmond Hill/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Richmond Hill/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Richmond Hill/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Richmond Hill/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Richmond Hill/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Rodney/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rodney/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rodney/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rodney/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rodney/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rodney/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rodney/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Rondeau (Provincial Park)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rondeau (Provincial Park)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rondeau (Provincial Park)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rondeau (Provincial Park)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rondeau (Provincial Park)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rondeau (Provincial Park)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Rondeau (Provincial Park)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sachigo Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sandy Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sarnia/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sarnia/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sarnia/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sarnia/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sarnia/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sarnia/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sarnia/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Saugeen Shores/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Saugeen Shores/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Saugeen Shores/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Saugeen Shores/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Saugeen Shores/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Saugeen Shores/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Saugeen Shores/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sault Ste. Marie/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Savant Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sharbot Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sharbot Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sharbot Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sharbot Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sharbot Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sharbot Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sharbot Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Shelburne/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Shelburne/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Shelburne/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Shelburne/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Shelburne/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Shelburne/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Shelburne/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Simcoe/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Simcoe/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Simcoe/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Simcoe/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Simcoe/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Simcoe/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Simcoe/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Lookout/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sioux Narrows/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Smiths Falls/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Smiths Falls/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Smiths Falls/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Smiths Falls/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Smiths Falls/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Smiths Falls/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Smiths Falls/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/South Bruce Peninsula/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/South Bruce Peninsula/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/South Bruce Peninsula/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/South Bruce Peninsula/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/South Bruce Peninsula/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/South Bruce Peninsula/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/South Bruce Peninsula/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/St. Catharines/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Catharines/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Catharines/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Catharines/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Catharines/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Catharines/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Catharines/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/St. Thomas/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Thomas/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Thomas/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Thomas/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Thomas/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Thomas/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/St. Thomas/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Stirling/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stirling/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stirling/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stirling/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stirling/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stirling/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stirling/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Stratford/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stratford/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stratford/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stratford/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stratford/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stratford/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Stratford/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Strathroy/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Strathroy/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Strathroy/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Strathroy/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Strathroy/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Strathroy/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Strathroy/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sudbury (Greater)/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Sydenham/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sydenham/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sydenham/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sydenham/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sydenham/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sydenham/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Sydenham/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Temiskaming Shores/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Terrace Bay/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Thunder Bay/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Tillsonburg/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tillsonburg/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tillsonburg/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tillsonburg/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tillsonburg/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tillsonburg/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tillsonburg/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Timmins/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Timmins/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Tobermory/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tobermory/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tobermory/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tobermory/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tobermory/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tobermory/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Tobermory/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Toronto/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Toronto Island/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto Island/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto Island/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto Island/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto Island/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto Island/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Toronto Island/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Trenton/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Trenton/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Trenton/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Trenton/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Trenton/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Trenton/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Trenton/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Upsala/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Upsala/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Vaughan/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vaughan/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vaughan/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vaughan/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vaughan/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vaughan/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vaughan/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Vineland/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vineland/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vineland/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vineland/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vineland/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vineland/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Vineland/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Walkerton/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Walkerton/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Walkerton/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Walkerton/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Walkerton/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Walkerton/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Walkerton/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Wawa/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wawa/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Webequie/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Webequie/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Welland/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Welland/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Welland/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Welland/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Welland/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Welland/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Welland/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/West Nipissing/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Westport/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Westport/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Westport/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Westport/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Westport/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Westport/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Westport/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Whitby/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Whitby/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Whitby/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Whitby/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Whitby/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Whitby/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Whitby/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/White River/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/White River/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Wiarton/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wiarton/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wiarton/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wiarton/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wiarton/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wiarton/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wiarton/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Winchester/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Winchester/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Winchester/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Winchester/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Winchester/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Winchester/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Winchester/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Windsor/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Windsor/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Windsor/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Windsor/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Windsor/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Windsor/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Windsor/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Wingham/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wingham/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wingham/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wingham/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wingham/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wingham/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wingham/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Woodstock/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Woodstock/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Woodstock/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Woodstock/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Woodstock/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Woodstock/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Woodstock/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored main data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Main_2024-08-21_Queried_at_19h10m.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Wed_21_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Thu_22_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Fri_23_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Sat_24_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Sun_25_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Stored future data to <_io.TextIOWrapper name='Assets/Data/Wunnummin Lake/Future_Mon_26_Aug_Queried_at_2024-08-21.json' mode='w' encoding='UTF-8'>
+Operation Success
