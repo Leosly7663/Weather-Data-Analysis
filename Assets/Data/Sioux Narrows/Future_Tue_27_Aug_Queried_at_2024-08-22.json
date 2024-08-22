@@ -1,10 +1,10 @@
 {
     "DaysFromMain": 5,
     "Date": "Tue_27_Aug",
-    "dayCondition": "40% Chance of showers",
-    "nightCondition": "Cloudy periods",
-    "nightTemp": 14,
-    "dayTemp": 26,
+    "dayCondition": "Sunny",
+    "nightCondition": "Clear",
+    "nightTemp": 13,
+    "dayTemp": 23,
     "dateQueried": "2024-08-22",
-    "timeQueried": "15h12m"
+    "timeQueried": "16h13m"
 }
