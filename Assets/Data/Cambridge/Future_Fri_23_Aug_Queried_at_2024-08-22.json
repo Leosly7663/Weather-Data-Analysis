@@ -2,9 +2,9 @@
     "DaysFromMain": 1,
     "Date": "Fri_23_Aug",
     "dayCondition": "Increasing cloudiness",
-    "nightCondition": "Clear",
+    "nightCondition": "Cloudy periods",
     "nightTemp": 12,
     "dayTemp": 24,
     "dateQueried": "2024-08-22",
-    "timeQueried": "14h10m"
+    "timeQueried": "15h12m"
 }
